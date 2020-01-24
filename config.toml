@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "cleanwhite"
+baseurl = "http://example.org"
+title = "Hugo Themes - aether"
+author = "Joe Hutchinson"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "aether"
+description = "aether Hugo theme for blogs"
+bgimg = "img/pattern.jpg"
