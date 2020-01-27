@@ -11,4 +11,4 @@ resources:
   params:
   description: "Yes"
 ---
-Intro,
+Intro, talk about slo
