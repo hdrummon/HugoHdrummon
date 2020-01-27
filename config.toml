@@ -1,11 +1,11 @@
 baseurl = "/"
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+title = "My Personal Portfolio"
+author = "Hayden Drummond"
 canonifyurls = true
 paginate = 3
 theme = "aether-master"
 
 [params]
-brand = "aether"
-description = "aether Hugo theme for blogs"
+brand = "Hayden Drummond 13239431"
+description = "My Personal Portfolio"
 bgimg = "img/pattern.jpg"
