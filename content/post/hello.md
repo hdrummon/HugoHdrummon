@@ -12,3 +12,4 @@ resources:
   description: "Yes"
 ---
 Photo and statement of motivation
+<img src="/img/LearningContract.png" alt="LearningContract.png">
