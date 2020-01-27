@@ -11,5 +11,17 @@ resources:
   params:
   description: "Yes"
 ---
-Photo and statement of motivation
+Introduction
+<br>
+<h3> Career </h3>
+With the skills and knowledge I will obtain through out university, I hope to further expand my knowledge with real world experience and exposure to the industry. With proper skills and 
+understanding, I am to help consult with clients in both the Cyber Security industry and other clients from other businesses. 
 <img src="/img/LearningContract.png" alt="LearningContract.png">
+<br>
+<h3> Motivation </h3>
+With previous history within the UTS Cyber Security Society, I hope to futher expand and greater my knowledge of the field, what paths there is to take for my career, and how to achieve
+the goal of obtaining a job within the Cyber Security industry.
+<br>
+<h3> Objectives </h3>
+Overall, I intend to futher understnad the technical aspects of the industry, as well to further develop a better theoretical understanding towards Cyber Security. Moreover, I intend to 
+further develop my project management skills to help further prepare for the industry standards, and to better develop knowledge of project based roles in the Cyber Security industry.
