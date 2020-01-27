@@ -20,7 +20,12 @@ This week was hard to produce a complete sprint due to my absence from class as 
 week to understand what is required to be submitted. Luckily a fellow student, Dylan Tchan was able to fill me in with what was required for the sprint submission and how to set up 
 this site.
 <br>
-<h5> Issues </h5>
+<h4> Issues </h4>
 I had some inital issues when preparing to create the website, such as installing the requires software like GIT since the laptop Im currently operating on is a Windows Surface X.
 The issue was due to the new architecture that this new model used, preventing alot of software including some installers of git.
 <br>
+Other issues that occured was regarding the Netlify and NameCheap configuration. 
+<img src="/img/Netlify1.png" alt="Netlify1.png">
+<br>
+<img src="/img/Namecheap.png" alt="Namecheap.png">
+Once I created the Name-Cheap domain and created the Netlify account, the issue was having the GIT Hub Repo point to Netlify and Netlify linked to NameCheap.
