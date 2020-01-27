@@ -14,6 +14,8 @@ Subject Learning Objectives (SLO)s:
 <li>Demonstrate effective collaboration and communication skills.</li>
 <li>Conduct critical self, peer, and group review and performance evaluation. </li>
 </ol>
+Regarding this weeks performances with the SLOs, due to my lack of attendence for the first classes, I was unable to make contact with any stakeholders or demonstrate collabrative/ communication skills, thus unable to complete SLO 1 and 4. I partially used SLO 2,3 and 5 throughout the development of this blog and setting up the repository, while at the end reflecting on the 
+process of developing this sprint and how I achieved.
 
 <h3> Reflection </h3>
 <br>

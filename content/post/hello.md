@@ -25,3 +25,8 @@ the goal of obtaining a job within the Cyber Security industry.
 <h3> Objectives </h3>
 Overall, I intend to futher understnad the technical aspects of the industry, as well to further develop a better theoretical understanding towards Cyber Security. Moreover, I intend to 
 further develop my project management skills to help further prepare for the industry standards, and to better develop knowledge of project based roles in the Cyber Security industry.
+<br>
+<h3> Contributions </h3>
+Regarding team enviroments, I intend to facilitate the role of Team Leader as I enjoy being able to manage the direction of a project to best meet the needs of the client or stakeholder.
+In any case, I intend to help ensure that the development of a project for client is directly meeting their standards, and to ensure that my team members are able to perform to the 
+best of their ability.
