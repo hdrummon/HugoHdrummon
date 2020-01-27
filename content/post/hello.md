@@ -7,9 +7,8 @@ date: 2020-01-22T10:57:09+11:00
 draft: false
 resources:
 - name: featuredImage
-  src: "pattern.jpg"
+  src: "https://images.all-free-download.com/images/graphicthumb/3d_computer_network_connection_picture_11_168643.jpg"
   params:
   description: "Yes"
 ---
-Intro, talk about slo
-<h1> Testing header </h1>
+Photo and statement of motivation
