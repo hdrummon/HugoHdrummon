@@ -10,11 +10,10 @@ draft: false
 
 
 ### Personal Reflection 2
-After finally being settled back in after the first week a lot more has happened in this week in terms of progress. This sprint was a lot more eventful then last week, due to more interaction with stakeholders in the field and discussion of the industry, as well as exploring into element surrounding them.
-
+After finally being settled back in the first week a lot more has happening in terms of progress. This sprint was a lot more eventful then last week, due to more interaction with stakeholders in the field and discussion of the industry, as well as exploring into element surrounding them. Overall this sprint was productive and eventful in the right ways.
 ## Tuesday 28/01
 
-The Monday class had two speakers come in and deliver a presentation on particular areas of the field, Patrick Kelso and Robert Mitchell.  Patrick's presentation of interesting aspects of Linux such as **tmux** and **I3** window manager. The tools shown seem quite interesting, but I would need time to further investigate how these tools work and how I would ever used them, as they initially are really intimating to me, given the technical understanding required to use them. Another interesting topic I asked Patrick about was his version of Linux he was running as I was quite interested from its general UX aesthetic. This was actually **Manjaro,** a distribution based on Arch Linux. In future I plan on following the same direction as Patrick and running Manjaro on a dedicated computer to not only help my Linux understanding through refinement and constant use, but future use in the industry. 
+The Tuesday class had two speakers come in and deliver a presentation on particular areas of the field, Patrick Kelso and Robert Mitchell.  Patrick's presentation of interesting aspects of Linux such as **tmux** and **I3** window manager. The tools shown seem quite interesting, but I would need time to further investigate how these tools work and how I would ever used them, as they initially are really intimating to me, given the technical understanding required to use them. Another interesting topic I asked Patrick about was his version of Linux he was running as I was quite interested from its general UX aesthetic. This was actually **Manjaro,** a distribution based on Arch Linux. In future I plan on following the same direction as Patrick and running Manjaro on a dedicated computer to not only help my Linux understanding through refinement and constant use, but future use in the industry. 
 
 After the presentation I spoke with Patrick individually and discussed the issue regarding entering to a Cyber Security job with no industry experience. This problem is close to me since I'm really driven to find a job and have a career in the cyber security field, but find it harder now to find opportunities to do so. This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums. 
 With Robert Mitchell's talk I was a lot more intrigued since he talked primarily about the elements around hackers and attributes associated with attacks and system. 
@@ -29,7 +28,7 @@ Today was primarily focused on gathering information and preparing for the prese
 For my section, I primarily focused on looking into industry impact of **NMAP** and providing a demonstration on how it operates. As I observed with Roberts presentation, **NMAP** can be used both as a tool for helping Cyber Security Specialists patch potential exploits that an attack can use, but at the same time an attacker can use **NMAP** or **ZENMAP** (GUI version of NMAP) to find exploits they can use such as open ports and version exploits. So this section I was pretty complacent to do relative to the other sections in the presentation. Overall I was quite happy with how the progress was made in the session. I was quite happy of how Dylan made the presentation and how my demo was made.
 
 {{< youtube id="8VK6vCVRUoc" autoplay="yes">}}
-#Demonstration of NMAP and ZENMAP
+*#Demonstration of NMAP and ZENMAP*
 
 ## Thursday 30/01
 
@@ -46,12 +45,12 @@ There were a couple of issues that cropped up across the weak, all with varying 
 - For the **NMAP** presentation, I was planning on scanning [www.uts.edu.au] **NMAP** operates. As I asked Jason hoping to be able to demonstrate this I was unable to due to policies. I did have screenshots from **Cyber Security 48730** that I was going to use in the presentation, and a video demonstration of a scan on another virtual machine connected.
 
 <img src="/img/Capture2.png" >
-Communication I made with Jason regarding the demo.
+*#Communication I made with Jason regarding the demo.*
 
 - A large issue was around the organization around the presentation between the team using **Trello**. We primarily communicated on **Microsoft Teams**, so by using **Trello** for a simple 2 day presentation wasn't much needed. While for larger group tasks it would be much more appropriate being able to monitor and divide tasks easily.
 
 <img src="/img/Untitled.png" alt=" Trello Timeline">
-Current progress of the Trello timeline.
+*#Current progress of the Trello timeline.*
 
 ## Goals/ To-do list
 
