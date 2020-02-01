@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Portfolio</title>
+    <link>/</link>
+    <description>Recent content on My Personal Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jan 2020 01:41:02 +1100</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 27 Jan 2020 01:41:02 +1100</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
