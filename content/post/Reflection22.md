@@ -1,12 +1,11 @@
----
+
 title: "Reflection2"
-date: 2020-02-01T18:36:19+11:00
-draft: true
 description: "Reflection for second sprint"
+date: 2020-02-01T16:22:07+11:00 
 displayInLine: false
 displayInMenu: true
 draft: false
----
+
 ### Reflection
 
 <h1> Reflection 2 </h2>
