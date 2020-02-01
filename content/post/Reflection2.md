@@ -24,12 +24,9 @@ Once the presentations were complete, we begin forming teams for a presentation 
 Today was primarily focused on gathering information and preparing for the presentation. I meet up with Dylan Tchan in Building 2 to prepare for the presentation and start preparing for each of our relevant sections. We prepared before hand by setting up a **Trello** group and splitting up the tasks between the four of us, Dylan, Nicholas, Lachlan and myself
 
 For my section, I primarily focused on looking into industry impact of **NMAP** and providing a demonstration on how it operates. As I observed with Roberts presentation, **NMAP** can be used both as a tool for helping Cyber Security Specialists patch potential exploits that an attack can use, but at the same time an attacker can use **NMAP** or **ZENMAP** (GUI version of NMAP) to find exploits they can use such as open ports and version exploits. So this section I was pretty complacent to do relative to the other sections in the presentation. Overall I was quite happy with how the progress was made in the session. I was quite happy of how Dylan made the presentation and how my demo was made.
-<figure>
-{{< video src='img/New_video.mp4' caption controls="yes">}}
-<figcaption>
+
+{{< video src='img/New_video.mp4' controls="yes">}}
 Demonstration of NMAP and ZENMAP
-</figcaption>
-</figure>
 
 ## Thursday
 
