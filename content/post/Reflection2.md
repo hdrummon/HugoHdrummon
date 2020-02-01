@@ -1,14 +1,14 @@
-# Reflection 2
 
 title: "Reflection2"
 description: "Reflection for second sprint"
-
+date: 2020-02-01T16:22:07+11:00 
 displayInLine: false
-
 displayInMenu: true
-
 draft: false
 
+### Reflection
+
+<h1> Reflection 2 </h2>
 ### Personal Reflection
 
 After finally being settled back in after the first week a lot more has happened in this week in terms of progress. This sprint was a lot more eventful then last week, due to more interaction with stakeholders in the field and discussion of the industry, as well as exploring into element surrounding them.
