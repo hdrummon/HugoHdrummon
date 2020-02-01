@@ -3,10 +3,11 @@ title: "Reflection2"
 date: 2020-02-01T18:36:19+11:00
 draft: true
 description: "Reflection for second sprint"
-displayInLine: false
-displayInMenu: true
+displayInLine: true
+displayInMenu: false
 draft: false
 ---
+
 <h1> Reflection 2 </h2>
 ### Personal Reflection
 
