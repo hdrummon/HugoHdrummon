@@ -90,7 +90,12 @@ There were a couple of issues that cropped up across the weak, all with varying 
 *When we realized that we didnt use Trello*
 </figcaption>
 </figure>
+<ul>
+<li>
 - Another big issue was with my Git repo and my local machine not uploading and correctly formatting Markdown files. This is mostly because of how I transfer the files from Notion to my local files to be uploaded and built. I will have to research into this more.
+</li>
+</ul>
+
 ## Goals/ To-do list
 
 - Do reflections each day to save time rather then on a single day.
