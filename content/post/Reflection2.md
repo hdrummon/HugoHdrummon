@@ -74,6 +74,13 @@ There were a couple of issues that cropped up across the weak, all with varying 
 *Current progress of the Trello timeline.*
 </figcaption>
 </figure>
+<br>
+<figure>
+<img src="/img/Teams.png" alt=" Microsoft Teams">
+<figcaption>
+*When we realized that we didnt use Trello*
+</figcaption>
+</figure>
 ## Goals/ To-do list
 
 - Do reflections each day to save time rather then on a single day.
@@ -81,4 +88,5 @@ There were a couple of issues that cropped up across the weak, all with varying 
 - Improve time management techniques.
 - Improve team management and communication.
 - Improve and make changes to website (background / presentatio)
+- Learn more about Git and Hugo to better edit my site.
 
