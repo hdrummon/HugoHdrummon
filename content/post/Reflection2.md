@@ -17,7 +17,7 @@ After the presentation I spoke with Patrick individually and discussed the issue
 This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums.
 <br>
 <figure>
-<img src="/img/Manjaro.png" alt= "Manjaro Logo" width="300" height="300">
+<img src="/img/Manjaro.png" alt= "Manjaro Logo" width="200" height="200">
 <figcaption>
 *Manjaro Logo.*
 </figcaption>
