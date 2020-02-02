@@ -16,7 +16,7 @@ The Tuesday class had two speakers come in and deliver a presentation on particu
 After the presentation I spoke with Patrick individually and discussed the issue regarding entering to a Cyber Security job with no industry experience. This problem is close to me since I'm really driven to find a job and have a career in the cyber security field, but find it harder now to find opportunities to do so.
 This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums.
 <br>
-<img src="/img/Manjaro.png" alt= "Manjaro Logo" width="200" height="200">
+<img src="/img/Manjaro.png" alt= "Manjaro Logo" width="50" height="50">
 <figcaption>
 *Manjaro Logo.*
 <br>
