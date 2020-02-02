@@ -14,7 +14,9 @@ After finally being settled back in the first week a lot more has happening in t
 ## Tuesday 28/01
 The Tuesday class had two speakers come in and deliver a presentation on particular areas of the field, Patrick Kelso and Robert Mitchell.  Patrick's presentation of interesting aspects of Linux such as **tmux** and **I3** window manager. The tools shown seem quite interesting, but I would need time to further investigate how these tools work and how I would ever used them, as they initially are really intimating to me, given the technical understanding required to use them. Another interesting topic I asked Patrick about was his version of Linux he was running as I was quite interested from its general UX aesthetic. This was actually **Manjaro,** a distribution based on Arch Linux. In future I plan on following the same direction as Patrick and running Manjaro on a dedicated computer to not only help my Linux understanding through refinement and constant use, but future use in the industry. 
 After the presentation I spoke with Patrick individually and discussed the issue regarding entering to a Cyber Security job with no industry experience. This problem is close to me since I'm really driven to find a job and have a career in the cyber security field, but find it harder now to find opportunities to do so.
-This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums.With Robert Mitchell's talk I was a lot more intrigued since he talked primarily about the elements around hackers and attributes associated with attacks and system. 
+This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums.
+<br>
+With Robert Mitchell's talk I was a lot more intrigued since he talked primarily about the elements around hackers and attributes associated with attacks and system. 
 I was genuinely interested in this presentation as it tackled these concepts that are still prominent in modern society, but also presented real world examples from an industry professional. 
 This helped me further understand how cybersecurity is important from the exams that Robert presented, from early attacks such as "**ILOVEYOU"** and "**Melissa"** to more modern attack methods such as ransomware **to "**Mirai"** botnet, an attack that incorporated several IOT cameras used in a botnet for attacks.
 I found this quite frightening yet also interesting as it both presents how early attacks still use similar elements to modern attacks, and how easily people can reverse engineer simple innocent cameras and devices that run Linux and use them in an attack.
@@ -27,7 +29,7 @@ For my section, I primarily focused on looking into industry impact of **NMAP** 
 <figure>
 {{< youtube id="8VK6vCVRUoc" autoplay="yes">}}
 <figcaption>
-*#Demonstration of NMAP and ZENMAP*
+*Demonstration of NMAP and ZENMAP*
 </figcaption>
 </figure>
 
