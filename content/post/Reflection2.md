@@ -16,6 +16,7 @@ The Tuesday class had two speakers come in and deliver a presentation on particu
 After the presentation I spoke with Patrick individually and discussed the issue regarding entering to a Cyber Security job with no industry experience. This problem is close to me since I'm really driven to find a job and have a career in the cyber security field, but find it harder now to find opportunities to do so.
 This is seriously frustrating to me since all advertisements focus on graduate roles and 3+ years of work experience in the industry. Patrick's advice regarding the situation was simply networking with people in the industry who may have opportunities. This would involve meeting others who work in the industry at events, meetups, societies and online forums.
 <br>
+<br>
 With Robert Mitchell's talk I was a lot more intrigued since he talked primarily about the elements around hackers and attributes associated with attacks and system. 
 I was genuinely interested in this presentation as it tackled these concepts that are still prominent in modern society, but also presented real world examples from an industry professional. 
 This helped me further understand how cybersecurity is important from the exams that Robert presented, from early attacks such as "**ILOVEYOU"** and "**Melissa"** to more modern attack methods such as ransomware **to "**Mirai"** botnet, an attack that incorporated several IOT cameras used in a botnet for attacks.
