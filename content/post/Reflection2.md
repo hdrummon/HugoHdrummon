@@ -24,9 +24,12 @@ Once the presentations were complete, we begin forming teams for a presentation 
 Today was primarily focused on gathering information and preparing for the presentation. I meet up with Dylan Tchan in Building 2 to prepare for the presentation and start preparing for each of our relevant sections. We prepared before hand by setting up a **Trello** group and splitting up the tasks between the four of us, Dylan, Nicholas, Lachlan and myself
 
 For my section, I primarily focused on looking into industry impact of **NMAP** and providing a demonstration on how it operates. As I observed with Roberts presentation, **NMAP** can be used both as a tool for helping Cyber Security Specialists patch potential exploits that an attack can use, but at the same time an attacker can use **NMAP** or **ZENMAP** (GUI version of NMAP) to find exploits they can use such as open ports and version exploits. So this section I was pretty complacent to do relative to the other sections in the presentation. Overall I was quite happy with how the progress was made in the session. I was quite happy of how Dylan made the presentation and how my demo was made.
-
+<figure>
 {{< youtube id="8VK6vCVRUoc" autoplay="yes">}}
+<figcaption>
 *#Demonstration of NMAP and ZENMAP*
+</figcaption>
+</figure>
 
 ## Thursday 30/01
 
@@ -49,13 +52,17 @@ There were a couple of issues that cropped up across the weak, all with varying 
 </figure>
 - A large issue was around the organization around the presentation between the team using **Trello**. We primarily communicated on **Microsoft Teams**, so by using **Trello** for a simple 2 day presentation wasn't much needed. While for larger group tasks it would be much more appropriate being able to monitor and divide tasks easily.
 
+<figure>
 <img src="/img/Untitled.png" alt=" Trello Timeline">
-*#Current progress of the Trello timeline.*
-
+<figcaption>
+*Current progress of the Trello timeline.*
+</figcaption>
+</figure>
 ## Goals/ To-do list
 
 - Do reflections each day to save time rather then on a single day.
 - Try to do more wargames and improve write ups.
 - Improve time management techniques.
 - Improve team management and communication.
+- Improve and make changes to website (background / presentatio)
 
