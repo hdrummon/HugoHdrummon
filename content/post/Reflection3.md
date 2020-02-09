@@ -44,3 +44,15 @@ my section I started losing my thoughts thinking that I started repeating my poi
 ensuring I follow my script and guidelines. 
 
 The rest of the day was spent on OverTheWire Natas challenges which I already previously participated in but mostly focused on create write-ups. Dylan Tchan and myself create a collaboration document to share our write-ups for future reference.
+
+## Issues
+This week didnt have any major issues apart from the difficulty finding an appropriate demo for the presentation. The only other major issue would be procrastion by either attempting more OverTheWire
+or getting side tracked with my **Career Management for IT Professionals Summer (31016)** Assignment. Im still improving on communication with my team members and better improving time management.
+
+## Goals/ To-do list
+- ~~Do reflections each day to save time rather then on a single day.~~
+- Try to do more wargames and improve write ups.
+- Improve time management techniques.
+- Improve team management and communication.
+- Improve and make changes to website (background / presentation)
+- Learn more about Git and Hugo to better edit my site.
