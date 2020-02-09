@@ -20,12 +20,18 @@ My section is primarily focusing on how it works and providing a demo of **SQL I
 This stems back to when I first joined the Cyber-Security Society and experiences challenges that involved **SQL Injections**. This will be a great opportunity to finally understand it in greater depth. 
 My primary focus for this presentation is providing a demo showing some of the more challenging and insightful elements of SQL Injection.
 
-## Tuesday 4/02 - Wednesday 
+## Tuesday 4/02 - Wednesday 5/02
 Tuesday and Wednesday I was focused more on find a good example of an **SQL Injection** before the presentation, but then soon side tracked and attempted more OverTheWire. I moved from Bandit to Natas which focused a lot more on web vulnerabilities and exploits. 
 I wasn't able to get far only getting to Natas 4 and I plan on redoing them with a proper write-ups later.
 
 I managed to record a demo of an **SQL Injection** from Herokuapp, but I'm still in search of a more complex **SQL Injection** to show how complex and lethal they can be. 
 I'm happy with how the demo turned out and I'm continuing to research how **SQL Injections** operate.
+<figure>
+{{< youtube id="BEXI_FpnSpI" autoplay="yes">}}
+<figcaption>
+*Demonstration of an SQLInjection**
+</figcaption>
+</figure>
 
 Towards the end making the final preparations for the presentation on Canva, I didnt end up finding an appropriate more complex example. But this ended up working well since when practicing
 the timing of the presentation we were slightly over the 6 minute mark. So even if I was to include a more complex demo, it would have taken up too much time on the presentation. I managed to write up and practice my script
