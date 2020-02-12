@@ -20,18 +20,31 @@ This was primarily due to me forgetting to create the post initially and then co
 After the stand-up we proceeded to talk about our next deliverable, Web Application attack/exploit. So for this deliverable we are researching **SQL Injection**, what it is, how it works and its impact on the industry as well as what can be done to mitigate it.
 My section is primarily focusing on how it works and providing a demo of **SQL Injection** and the logic behind it. This for me is a good opportunity to tackle a problem I've had for a while which is primarily understanding how it actually works, how I will encounter it and most important for me, how to use it for bounties and challenges. 
 This stems back to when I first joined the Cyber-Security Society and experienced challenges that involved **SQL Injections**. This will be a great opportunity to finally understand it in greater depth. 
-My primary focus for this presentation is providing a demo showing some of the more challenging and insightful elements of SQL Injection.
+My primary focus for this presentation is providing a demo showing some of the more challenging and insightful elements of SQL Injection. I then made a group with my teammates Dowsen and Manish.
+<figure>
+<img src="/img/Team.png" >
+<figcaption>
+*Microsoft Team chat made with my group*
+</figcaption>
+</figure>
 
 ## Tuesday 4/02 - Wednesday 5/02
 Tuesday and Wednesday I was focused more on find a good example of an **SQL Injection** before the presentation, but then soon side tracked and attempted more OverTheWire. I moved from Bandit to Natas which focused a lot more on web vulnerabilities and exploits. 
-I wasn't able to get far only getting to Natas 4 and I plan on redoing them with a proper write-ups later but was otherwise surprised that I even got this far.
+I wasn't able to get far only getting to Natas 4 and I plan on redoing them with a proper write-ups later but was otherwise surprised that I even got this far. As for **SQLInjection** research, Hacksplaining provided a quite easy and understandable explination of what
+the main fundemental concept of an **SQLInjection** was.
+<figure>
+<img src="/img/SQLI" >
+<figcaption>
+*Hacksplaining Information of an SQL Injection*
+</figcaption>
+</figure>
 
 I managed to record a demo of an **SQL Injection** from Herokuapp, but I'm still in search of a more complex **SQL Injection** to show how complex and lethal they can be. 
 I'm happy with how the demo turned out and I'm continuing to research how **SQL Injections** operate through looking into other CTF challenges.
 <figure>
 {{< youtube id="BEXI_FpnSpI" autoplay="yes">}}
 <figcaption>
-*Demonstration of an SQLInjection**
+*Demonstration of an SQLInjection*
 </figcaption>
 </figure>
 
