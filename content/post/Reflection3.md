@@ -33,7 +33,7 @@ Tuesday and Wednesday I was focused more on find a good example of an **SQL Inje
 I wasn't able to get far only getting to Natas 4 and I plan on redoing them with a proper write-ups later but was otherwise surprised that I even got this far. As for **SQLInjection** research, Hacksplaining provided a quite easy and understandable explination of what
 the main fundemental concept of an **SQLInjection** was.
 <figure>
-<img src="/img/SQLI" >
+<img src="/img/SQLI.png" >
 <figcaption>
 *Hacksplaining Information of an SQL Injection*
 </figcaption>
