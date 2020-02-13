@@ -9,7 +9,7 @@ draft: false
 
 ### Personal Reflection 3
 Over all this sprint was quite successfully in some areas as I have now attempted and successfully adopted the daily reflection writing. I now have a better idea of how and **SQLInjection** operates on a more theoretical level now and
-how it would be prevented though the research done for our presentation. While there are some areas that I still need to cover abit more such as general web exploits and basic pen-testing operations, I believe that im on the right track at the moment.
+how it would be prevented though the research done for our presentation. While there are some areas that I still need to cover a bit more such as general web exploits and basic pen-testing operations, I believe that I’m on the right track at the moment.
 
 ## Monday 3/02
 I arrived slightly late to class due to my other subject **Career Management for IT Professionals Summer (31016)** having mock interviews to prepare us for future application process.
@@ -26,18 +26,24 @@ After the stand-up we proceeded to talk about our next deliverable, Web Applicat
 My section is primarily focusing on how it works and providing a demo of **SQL Injection** and the logic behind it. This for me is a good opportunity to tackle a problem I've had for a while which is primarily understanding how it actually works, how I will encounter it and most important for me, how to use it for bounties and challenges. 
 This stems back to when I first joined the Cyber-Security Society and experienced challenges that involved **SQL Injections**. This will be a great opportunity to finally understand it in greater depth. 
 My primary focus for this presentation is providing a demo showing some of the more challenging and insightful elements of SQL Injection. 
-Once we decided on what roles we were to present, I then made a microsoft teams group with my teammates Dowsen and Manish.
+Once we decided on what roles we were to present, I then made a Microsoft teams group with my teammates Dowsen and Manish.
 <figure>
 <img src="/img/Team.png" >
 <figcaption>
 *Microsoft Team chat made with my group*
 </figcaption>
 </figure>
+<figure>
+<img src="/img/Assign.png" >
+<figcaption>
+*Assigning of roles for the presentation*
+</figcaption>
+</figure>
 
 ## Tuesday 4/02 - Wednesday 5/02
 Tuesday and Wednesday I was focused more on find a good example of an **SQL Injection** before the presentation, but then soon side tracked and attempted more OverTheWire. I moved from Bandit to Natas which focused a lot more on web vulnerabilities and exploits. 
-I wasn't able to get far only getting to Natas 4 and I plan on re-doing them with a proper write-ups later but was otherwise surprised that I even got this far. As for **SQLInjection** research, Hacksplaining provided a quite easy and understandable explination of what
-the main fundemental concept of an **SQLInjection** was by providing both and interactive demo, and an explination on what it is and how to prevent it.
+I wasn't able to get far only getting to Natas 4 and I plan on re-doing them with a proper write-ups later but was otherwise surprised that I even got this far. As for **SQLInjection** research, Hacksplaining provided a quite easy and understandable explanation of what
+the main fundamental concept of an **SQLInjection** was by providing both and interactive demo, and an explanation on what it is and how to prevent it.
 <figure>
 <img src="/img/SQLI.png" >
 <figcaption>
@@ -53,6 +59,9 @@ I'm happy with how the demo turned out and I'm continuing to research how **SQL 
 *Demonstration of an SQLInjection*
 </figcaption>
 </figure>
+From both the Hacksplaining demo and description as well as other media like Youtube videos and websites, I understand how **SQLInjection** works. It in essence exploits how an SQL query operates by injecting key SQL characters that compile with the query.
+They are typically injected into input fields like login or search boxes. These enable attackers to exploit these inputs and inject SQL code with malicious outcomes, such as tricking the internal logic
+of SQL or displaying files by using code that invokes tables on the webservers. In some instances, an attacker is able to output contents into a file or inject commands alongside the SQLI, that get executed beyond the SQL query.
 
 Towards the end making the final preparations for the presentation on Canva, I didn’t end up finding an appropriate more complex example. But this ended up working well since when practicing
 the timing of the presentation we were slightly over the 6 minute mark. So even if I was to include a more complex demo, it would have taken up too much time on the presentation. I managed to write up and practice my script
@@ -78,10 +87,10 @@ The rest of the day was spent on OverTheWire Natas challenges which I already pr
 </figure>
 ## Issues
 This week didn’t have any major issues apart from the difficulty finding an appropriate demo for the presentation. The only other major issue would be procrastination by either attempting more OverTheWire
-or getting side tracked with my **Career Management for IT Professionals Summer (31016)** Assignment. Im still improving on communication with my team members and better improving time management.
+or getting side tracked with my **Career Management for IT Professionals Summer (31016)** Assignment. I’m still improving on communication with my team members and better improving time management.
 
 ## Goals/ To-do list
-- ~~Do reflections each day to save time rather then on a single day.~~
+- ~~Do reflections each day to save time rather than on a single day.~~
 - Try to do more wargames and improve write ups.
 - Improve time management techniques.
 - Improve team management and communication.
