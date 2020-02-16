@@ -12,7 +12,7 @@ draft: false
 
 I begin by making sure that both Virtual Machines are able to connect by doing a ping test and ensuring that both are on the NAT option for networking.
 
-I first check the IP of the Pen test VM by inputting the command 
+I first login as guest since I dont have the password yet and then check the IP of the Pen test VM by inputting the command 
 
     ifconfig
 
@@ -21,7 +21,7 @@ This will tell me the IP so that I can ping it from the kali machine.
 <figure>
 <img src="/img/Basic.png" >
 <figcaption>
-*Using ifconfig to check network settings*
+*Using ifconfig to check network settings
 </figcaption>
 </figure>
 
