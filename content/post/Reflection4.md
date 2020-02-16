@@ -92,6 +92,12 @@ I then also contacted Jason about the issue, mostly discussed other options like
 </figure>
 Apart from that, the only other issue is that I didn't interact with any stakeholders or find any particular issue in the industry. I intend to improve on this by being more engaging next week and researching 
 into current industry problems that I can discuss, that I would also understand and relate to my study in some way.
+<figure>
+<img src="/img/JasonChat2.png" >
+<figcaption>
+*Screenshot of my chat with Jason discussing my lack of communication with stakeholders*
+</figcaption>
+</figure>
 ## Goals/ To-do list
 - ~Try to do more wargames and improve write ups.~
 - Improve time management techniques.
