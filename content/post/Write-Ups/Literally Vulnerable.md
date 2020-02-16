@@ -2,7 +2,8 @@
 ---
 title: "Literally Vulnerable Writeup"
 date: 2020-02-16T19:09:19+11:00
-draft: true
+description: "Writeup for Literally Vulnerable box"
+draft: false
 displayInLine: true
 displayInMenu: false
 draft: false
