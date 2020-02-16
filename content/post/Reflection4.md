@@ -8,6 +8,8 @@ draft: false
 ---
 
 ### Personal Reflection 4
+Overall this week was quite busy in terms of content. It introduced me to new concepts while also challenging my existing knowledge of Pen-Testing. The boxes that I did were quite challenging since I’m more used to smaller tasks on CTFs rather than enumeration, exploitation and escalation in box pen-testing.
+Unfortunately there was a major issue that stopped me from completing my submission box, which I hope to resolve for next week. I was quite content about how this week went, but I intend to complete the unfinished box once I fix my WPScan.
 
 ## Monday 10/02
 Again I was slightly late to the session due to my other subject **Career Management for IT Professionals Summer (31016)** having to do a 30 minute presentation for our final assignment. So I missed the stand-up meeting and the beginning of Jasons 
@@ -102,7 +104,7 @@ into current industry problems that I can discuss, that I would also understand 
 - ~Try to do more wargames and improve write ups.~
 - Improve time management techniques.
 - Improve team management and communication.
-- Improve and make changes to website (background / presentation)
+- Improve and make changes to website (background / presentation).
 - Learn more about Git and Hugo to better edit my site.
 - Understand the process of procedures in web pen-testing.
-- Fix Kali **WPScan** issue
+- Fix Kali **WPScan** issue > Finish **Literally-Vulnerability** box.
