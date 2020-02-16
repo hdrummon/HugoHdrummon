@@ -3,7 +3,6 @@
 title: "Literally Vulnerable Writeup"
 date: 2020-02-16T19:09:19+11:00
 description: "Writeup for Literally Vulnerable box"
-draft: false
 displayInLine: true
 displayInMenu: true
 draft: false
@@ -63,7 +62,7 @@ I then check what's located there which only presents backupPasswords. I then us
 </figcaption>
 </figure>
 
-I attempted to use these passwords to SSH into Doe, sadly no luck there. Bit of a dead-end but at least I found some passwords. Let’s move onto the website on port 80.
+I attempted to use these passwords to SSH into Doe and to logon to the machine, sadly no luck there. Bit of a dead-end but at least I found some passwords. Let’s move onto the website on port 80.
 
 <figure>
 <img src="/img/Literally_vul_4.png" >
