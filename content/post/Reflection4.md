@@ -17,7 +17,7 @@ We were then told what our next deliverable will be, that being a write-up of ou
 order to get familiar with the process necessary to work my way through it from the surface. I managed to complete it in class but plan on creating a Write-up and re attempting it tomorrow to refresh myself.
 
 ## Tuesday 11/02 Wednesday 12/02
-Both Tuesday and Wednesday was spend mostly on doing Write-Ups and attempts on 2 machines. Primarily **<a href="https://www.w3schools.com/html/">** Basic Pen-Testing</a> and **<a href="https://www.w3schools.com/html/">** Me and My Girlfriend</a> machines. They were quite challenging considering it forced me into concepts I’m not familiar with
+Both Tuesday and Wednesday was spend mostly on doing Write-Ups and attempts on 2 machines. Primarily **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">** Basic Pen-Testing</a> and **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">** Me and My Girlfriend</a> machines. They were quite challenging considering it forced me into concepts I’m not familiar with
 such as reverse shell and privilege escalation.
 <figure>
 <img src="/img/PrivEsc.png" >
