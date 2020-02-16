@@ -36,7 +36,7 @@ As seen, there are 4 IP's detected from the scan, the first and last IP are roll
 </figcaption>
 </figure>
 
-Some of the open ports discovered show some interesting findings, such as port 21 which indicated an FTP service wit a file of "backupPasswords". This might have a key to get into the machine.
+Some of the open ports discovered show some interesting findings, such as port 21 which indicated an FTP service with a file of "backupPasswords". This might have a key to get into the machine.
 
 I then determine how to get the file from FTP to my local to view the passwords. So the most notable thing about the service is ***FTP Anonymous***, and after searching it up means and FTP archive that has general access. So we just need to retrieve the file. 
 <figure>
