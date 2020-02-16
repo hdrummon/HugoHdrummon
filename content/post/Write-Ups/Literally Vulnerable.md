@@ -5,7 +5,7 @@ date: 2020-02-16T19:09:19+11:00
 description: "Writeup for Literally Vulnerable box"
 draft: false
 displayInLine: true
-displayInMenu: false
+displayInMenu: true
 draft: false
 ---
 
