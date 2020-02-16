@@ -21,7 +21,7 @@ This will tell me the IP so that I can ping it from the kali machine.
 <figure>
 <img src="/img/Basic.png" >
 <figcaption>
-*Using ifconfig to check network settings
+*Using ifconfig to check network settings*
 </figcaption>
 </figure>
 
