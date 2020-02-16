@@ -23,7 +23,7 @@ This will allow me to detect any IP that exists in this range.
 <figure>
 <img src="/img/meand.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Result of the netdiscover command*
 </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ I can further test this by performing and NMAP scan on the IP 192.168.220.156.
 <figure>
 <img src="/img/Untitled one.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*NMAP results*
 </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Boom so now I know that there are 2 open ports I can use. But one of them being 
 <figure>
 <img src="/img/Untitled 2.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Viewed website on port 80*
 </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ So we are greeted with this kind message telling that the site can only be acces
 <figure>
 <img src="/img/Untitled 3.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Results in inspector*
 </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ There's a comment here saying that we should look up how to use x-forwarded-for
 <figure>
 <img src="/img/Untitled 4.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Search results for X-Forwarded-For*
 </figcaption>
 </figure>
 
@@ -74,22 +74,16 @@ So before setting it up I have to make the necessary changes to Firefox
 <figure>
 <img src="/img/Untitled 5.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Configuration for Burp Suite*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Untitled 6.png" >
-<figcaption>
-*Hacksplaining Information of an SQL Injection*
-</figcaption>
 </figure>
 
 <figure>
 <img src="/img/Untitled 7.png" >
-<figcaption>
-*Hacksplaining Information of an SQL Injection*
-</figcaption>
 </figure>
 
 - So we have to change the proxy setting in Firefox to be the same as the proxy listener in Burp Suite. By going to the bottom of preferences in Network Proxy and changing the configure proxy to manual and inputting the HTTP Proxy as the same IP and Port: *127.0.0.1 8080 .*
@@ -99,7 +93,7 @@ Now that this is configured we can refresh the page and capture the page.
 <figure>
 <img src="/img/Untitled 8.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Captured results from the page*
 </figcaption>
 </figure>
 
@@ -107,9 +101,6 @@ So once we captured it, we can see the data it is able to capture in the refresh
 
 <figure>
 <img src="/img/Untitled 9.png" >
-<figcaption>
-*Hacksplaining Information of an SQL Injection*
-</figcaption>
 </figure>
 
 This is the header info for the site. So if we were to insert the X-Forwarder-For somewhere we should able to access local. 
@@ -117,7 +108,7 @@ This is the header info for the site. So if we were to insert the X-Forwarder-Fo
 <figure>
 <img src="/img/Untitled 10.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Configuring Burp options to input the X-Forwarded-For header*
 </figcaption>
 </figure>
 Inserting that should allow us to gain access to local given the two hints.
@@ -127,14 +118,14 @@ Inserting that should allow us to gain access to local given the two hints.
 <figure>
 <img src="/img/Untitled 11.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Header inputted*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Untitled 12.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Resulting change from header addition*
 </figcaption>
 </figure>
 
@@ -145,7 +136,7 @@ There was nothing of notability so now I’m going to register to see if there a
 <figure>
 <img src="/img/Untitled 13.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Homepage dashboard*
 </figcaption>
 </figure>
 
@@ -154,7 +145,7 @@ Now that I've registered I'm going to look around for potential clues.
 <figure>
 <img src="/img/Untitled 14.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Registered as a user, then played around with the user_id in URL*
 </figcaption>
 </figure>
 
@@ -163,7 +154,7 @@ I started playing around with the user_id in the url to see if it changes anythi
 <figure>
 <img src="/img/Untitled 15.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Found Alice account*
 </figcaption>
 </figure>
 
@@ -172,7 +163,7 @@ Bingo, Alice. Now that we found her profile, we need to find out the password.
 <figure>
 <img src="/img/Untitled 16.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Source-code showing her password*
 </figcaption>
 </figure>v
 
@@ -186,7 +177,7 @@ Now to use this password on the Alice machine.
 <figure>
 <img src="/img/Untitled 17.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Logging into her account on the machine*
 </figcaption>
 </figure>
 
@@ -195,7 +186,7 @@ Were in, now lets dig in and find the flag
 <figure>
 <img src="/img/Untitled 18.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Secret and Flag 1 found*
 </figcaption>
 </figure>
 So now we've got the first flag within a hidden file. Now we need to get root access to get the second flag.
@@ -205,7 +196,7 @@ So I didn't know where to go from here so I tried to find out what sudo command 
 <figure>
 <img src="/img/Untitled 19.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Looked at what sudo command the user Alice can execute*
 </figcaption>
 </figure>
     sudo -l
@@ -228,19 +219,19 @@ This alongside netcat should allow me to gain access through the kali machine us
 <figure>
 <img src="/img/Untitled 20.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Kali machine listening on port 5050*
 </figcaption>
 </figure>
 <figure>
 <img src="/img/Untitled 21.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Executing the exploit on Alice machine*
 </figcaption>
 </figure>
 <figure>
 <img src="/img/Untitled 22.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Kali machine connected to the opening and viewed what user I was*
 </figcaption>
 </figure>
 Boom now I'm root, now I just need to navigate to the second flag.
@@ -248,6 +239,6 @@ Boom now I'm root, now I just need to navigate to the second flag.
 <figure>
 <img src="/img/Untitled 23.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Viewed flag2 as root*
 </figcaption>
 </figure>

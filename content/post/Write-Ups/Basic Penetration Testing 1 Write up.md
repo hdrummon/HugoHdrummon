@@ -21,14 +21,14 @@ This will tell me the IP so that I can ping it from the kali machine.
 <figure>
 <img src="/img/Basic.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Using ifconfig to check network settings*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Basic1.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Ping to check connection*
 </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ We will use **NMAP** to scan the ports of the pen test VM. we use the following 
 <figure>
 <img src="/img/Basic2.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Result of NMAP scan*
 </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ I notice that one of the versions for port 21 that's open has ProFTPD 1.3.3c. I 
 <figure>
 <img src="/img/Basic3.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Search result of ProFTPD 1.3.3c exploit*
 </figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ As expected there's an exploit for this service. Now that I know that there's an
 <figure>
 <img src="/img/Basic4.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Metasploit exploite for ProFTPD 1.3.3c*
 </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ So just from the first link of the search, I found a potential set of commands f
 <figure>
 <img src="/img/Basic5.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Configuring exploit on Metasploit with error*
 </figcaption>
 </figure>
 
@@ -77,16 +77,16 @@ I ended up encountering an error relating RHOST so I attempted to add the target
 <figure>
 <img src="/img/Basic6.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Proper configuration and execution on Metasploit*
 </figcaption>
 </figure>
 
-To confirm where i am and what permission I am I ran the **ls** and **whoami** command
+To confirm where I am and what permission I am I ran the **ls** and **whoami** command
 
 <figure>
 <img src="/img/Basic7.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*View directory and what user I am*
 </figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ I need to find out where the password would be located, this would be in the /et
 <figure>
 <img src="/img/Basic8.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Contents of /etc/shadow*
 </figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ After numerous trial and error with other decryption formats, I looked up the pa
 <figure>
 <img src="/img/Basic9.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Using John the Ripper to determine password*
 </figcaption>
 </figure>
 

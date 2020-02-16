@@ -84,7 +84,7 @@ I then also contacted Jason about the issue, mostly discussed other options like
 </figcaption>
 </figure>
 Apart from that, the only other issue is that I didn't interact with any stakeholders or find any particular issue in the industry. I intend to improve on this by being more engaging next week and researching 
-into current industry problems that I can discuss, that I would also understand and relates to my study in some way.
+into current industry problems that I can discuss, that I would also understand and relate to my study in some way.
 ## Goals/ To-do list
 - ~Try to do more wargames and improve write ups.~
 - Improve time management techniques.
