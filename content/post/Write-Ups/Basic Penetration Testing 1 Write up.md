@@ -16,7 +16,7 @@ I first check the IP of the Pen test VM by inputting the command
 
     ifconfig
 
-This will tell me the ip so that I can ping it from the kali machine.
+This will tell me the IP so that I can ping it from the kali machine.
 
 <figure>
 <img src="/img/Basic.png" >
@@ -32,9 +32,9 @@ This will tell me the ip so that I can ping it from the kali machine.
 </figcaption>
 </figure>
 
-Now that I know the ip and that its able to connect I can begin scanning for vulnerabilities.
+Now that I know the IP and that its able to connect I can begin scanning for vulnerabilities.
 
-We will use **NMAP** to scan the ports of the pen test vm. we use the following command
+We will use **NMAP** to scan the ports of the pen test VM. we use the following command
 
     nmap -sV -sC -o pentest.log 192.168.234.129
 
@@ -54,7 +54,7 @@ I notice that one of the versions for port 21 that's open has ProFTPD 1.3.3c. I 
 </figcaption>
 </figure>
 
-As expected there's an exploit for this service. Now that i know that there's an exploit. I can now find a means of using it.
+As expected there's an exploit for this service. Now that I know that there's an exploit. I can now find a means of using it.
 
 <figure>
 <img src="/img/Basic4.png" >
@@ -72,7 +72,7 @@ So just from the first link of the search, I found a potential set of commands f
 </figcaption>
 </figure>
 
-I ended up encountering an error relating RHOST so I attempted to add the target as the host as well which still resulted in an error. So instead I set the **RHOST** as the ip of the pentest machine and the target as 0. As a result, when executing the exploit it managed to work
+I ended up encountering an error relating RHOST so I attempted to add the target as the host as well which still resulted in an error. So instead I set the **RHOST** as the IP of the pentest machine and the target as 0. As a result, when executing the exploit it managed to work
 
 <figure>
 <img src="/img/Basic6.png" >
@@ -103,7 +103,7 @@ I need to find out where the password would be located, this would be in the /et
 </figcaption>
 </figure>
 
-Now ive found marlinspikes password encrypted, i need to find out what encryption format it is to decrypt it.
+Now I’ve found marlinspikes password encrypted, I need to find out what encryption format it is to decrypt it.
 
 After numerous trial and error with other decryption formats, I looked up the password and found people to use John the Ripper to decrypt the password. I exported the password into a local file called **john.txt.** Messing with the formats I used the following command to decrypt the password
 

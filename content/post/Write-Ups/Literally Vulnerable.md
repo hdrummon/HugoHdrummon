@@ -20,11 +20,11 @@ By using the following command, I am able to determine the IP of the Literally V
 <figure>
 <img src="/img/Literally_vul_11.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Result of the netdiscover command*
 </figcaption>
 </figure>
 
-As seen, there are 4 IP's detected from the scan, the first and last IP are rolled out since they are the network and broadcast IP respectively. So more then likely the address 192.168.220.157 is the machines IP. This can be confirmed with an NMAP scan using the following command:
+As seen, there are 4 IP's detected from the scan, the first and last IP are rolled out since they are the network and broadcast IP respectively. So more than likely the address 192.168.220.157 is the machines IP. This can be confirmed with an NMAP scan using the following command:
 
     nmap -A 192.168.220.157
     
@@ -32,7 +32,7 @@ As seen, there are 4 IP's detected from the scan, the first and last IP are roll
 <figure>
 <img src="/img/Literally_vul_1.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Result of NMAP scan*
 </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ I then determine how to get the file from FTP to my local to view the passwords.
 <figure>
 <img src="/img/Literally_vul_2.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Installing FTP and accessing the server*
 </figcaption>
 </figure>
 
@@ -50,41 +50,38 @@ So I install the standard FTP application and use it to connect to the IP and lo
 <figure>
 <img src="/img/ftp.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Exported the Passwords*
 </figcaption>
 </figure>
 
-I then check what's located there which only presents backupPasswords. I then use the **GET** command to send the file locally and then view it. And so the file contains several passwords addressed to Doe. And the text presents that their is "A bunch of passwords below along with your password" so its possibly that one of these passwords will gain access to the machine and other passwords might have a use down the line.
+I then check what's located there which only presents backupPasswords. I then use the **GET** command to send the file locally and then view it. And so the file contains several passwords addressed to Doe. And the text presents that there is "A bunch of passwords below along with your password" so its possibly that one of these passwords will gain access to the machine and other passwords might have a use down the line.
 
 <figure>
 <img src="/img/Untitled1.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Attempted to use the passwords to SSH to the machine*
 </figcaption>
 </figure>
 
-I attempted to use these passwords to SSH into Doe, sadly no luck there. Bit of a dead-end but atleast I found some passwords. Lets move onto the website on port 80.
+I attempted to use these passwords to SSH into Doe, sadly no luck there. Bit of a dead-end but at least I found some passwords. Let’s move onto the website on port 80.
 
 <figure>
 <img src="/img/Literally_vul_4.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Viewing the website on port 80*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Literally_vul_5.png" >
-<figcaption>
-*Hacksplaining Information of an SQL Injection*
-</figcaption>
 </figure>
 
-Alot of the links on the website are broken and don't lead anywhere. So my next step is to look in inspector and console for any clues.
+A lot of the links on the website are broken and don't lead anywhere. So my next step is to look in inspector and console for any clues.
 
 <figure>
 <img src="/img/Literally_vul_6.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Errors in console*
 </figcaption>
 </figure>
 
@@ -93,14 +90,14 @@ I noticed how there were several errors in console indicating to the source. Tha
 <figure>
 <img src="/img/Literally_vul_7.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*/etc/hosts file entry*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Literally_vul_8.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Updated and restored site*
 </figcaption>
 </figure>
 
@@ -108,12 +105,12 @@ By inputting the domain name in /etc/hosts it is able to retrieve the necessary 
 
 Now that I have proper access to the word press website, now I can look around for anymore leads.
 
-Noting comes up, lets move on and try that other open port. 65535
+Noting comes up, let’s move on and try that other open port. 65535
 
 <figure>
 <img src="/img/Literally_vul_9.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Default Apache 2 site*
 </figcaption>
 </figure>
 When accessing the port, Im greeted with a default page for Apache2 Ubuntu. 
@@ -123,7 +120,7 @@ I then use **Dirb** to find any hidden directories on the IP, the website and de
 <figure>
 <img src="/img/Literally_vul_10.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Dirb command finding hidden Directories*
 </figcaption>
 </figure>
 
@@ -132,15 +129,12 @@ As seen there is a large quantity of files and subdirectories within the directo
 <figure>
 <img src="/img/Literally_vul_12.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*Accessing hidden directory /phpcms/ and its contents*
 </figcaption>
 </figure>
 
 <figure>
 <img src="/img/Literally_vul_13.png" >
-<figcaption>
-*Hacksplaining Information of an SQL Injection*
-</figcaption>
 </figure>
 
 I then attempt an WPScan of the webpage to find any other users on the website other then "notadmin". 
@@ -150,7 +144,7 @@ Its at this point that I cant continue due to a fatal error in WPScan that preve
 <figure>
 <img src="/img/Literally_vul_14.png" >
 <figcaption>
-*Hacksplaining Information of an SQL Injection*
+*WPScan errors*
 </figcaption>
 </figure>
 

@@ -55,21 +55,21 @@ For the rest of the day I spent on creating a section on my portfolio for Write-
 
 ## Friday 14/02 Sunday 16/02
 The last couple of days of the week were primarily focused on boot-to-root with my selected box being **Literally-Vulnerability**. This was quite a challenging box compared to **Basic Pen-Testing1** and **Me and My Girlfriend1**.
-There was a major error that prevented me from continuing the box which in turn halted my writeup for the box. I was left seriously frustrated with how this may impact me and the disatisfaction of not being able to completely attempt the box.
-I even contacted Jason about this issue and Nik who is also doing the same box as me. Nik also had the same issue and the suggestions that Jason made didnt work as it continued to error. I was also preparing for a presentation with Dylan for our other subject,
-**Career Management for IT Professionals Summer (31016)**. This really tested my managment skills having to manage both preparing with my team for that presenation and conducting my write-up / trouble shooting my **WPScan** issue.
+There was a major error that prevented me from continuing the box which in turn halted my writeup for the box. I was left seriously frustrated with how this may impact me and the dissatisfaction of not being able to completely attempt the box.
+I even contacted Jason about this issue and Nik who is also doing the same box as me. Nik also had the same issue and the suggestions that Jason made didn’t work as it continued to error. I was also preparing for a presentation with Dylan for our other subject,
+**Career Management for IT Professionals Summer (31016)**. This really tested my management skills having to manage both preparing with my team for that presentation and conducting my write-up / trouble shooting my **WPScan** issue.
 
 
 ## Issues
-As mentioned, a huge issue this sprint was the **WPScan** issue that impeded my progress on the **Literally-Vulnerability** box. During the progress of the box, I came to a seaction that enabled me to do a **WPScan** on the website to detect other users. 
-Every time I attempt to scan the websites IP and port I kept getting the same error message. Even when attempting to update the tool I recieve the same error.
+As mentioned, a huge issue this sprint was the **WPScan** issue that impeded my progress on the **Literally-Vulnerability** box. During the progress of the box, I came to a section that enabled me to do a **WPScan** on the website to detect other users. 
+Every time I attempt to scan the websites IP and port I kept getting the same error message. Even when attempting to update the tool I receive the same error.
 <figure>
 <img src="/img/WPScan.png" >
 <figcaption>
 *WPScan error on update*
 </figcaption>
 </figure>
-I attempted to troubleshoot the error, hardly anything tangible. I spoke with Nik who is doing the same box and also encounted the same issue, but nether of us had any knowledge to fix this issue.
+I attempted to troubleshoot the error, hardly anything tangible. I spoke with Nik who is doing the same box and also encountered the same issue, but neither of us had any knowledge to fix this issue.
 I then also contacted Jason about the issue, mostly discussed other options like alternative enumeration methods and updating. Sadly neither of which held any results. And with Nik also having the same issue, hopefully Nik and myself can resolve the issue in class.
 <figure>
 <img src="/img/nik.png" >
