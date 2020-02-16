@@ -54,10 +54,11 @@ For the rest of the day I spend on creating a section on my portfolio for Write-
 
 
 ## Friday 14/02 Sunday 16/02
-The last couple of days of the week were primarily focused on boot-to-root with my selected box being **Literally-Vulnerability**. This was quite a challenging box compared to **Basic Pen-Testing1** and ** Me and My Girlfriend1**.
+The last couple of days of the week were primarily focused on boot-to-root with my selected box being **Literally-Vulnerability**. This was quite a challenging box compared to **Basic Pen-Testing1** and **Me and My Girlfriend1**.
 There was a major error that prevented me from continuing the box which in turn halted my writeup for the box. I was left seriously frustrated with how this may impact me and the disatisfaction of not being able to completely attempt the box.
 I even contacted Jason about this issue and Nik who is also doing the same box as me. Nik also had the same issue and the suggestions that Jason made didnt work as it continued to error. I was also preparing for a presentation with Dylan for our other subject,
 **Career Management for IT Professionals Summer (31016)**. This really tested my managment skills having to manage both preparing with my team for that presenation and conducting my write-up / trouble shooting my **WPScan** issue.
+
 
 ## Issues
 As mentioned, a huge issue this sprint was the **WPScan** issue that impeded my progress on the **Literally-Vulnerability** box. During the progress of the box, I came to a seaction that enabled me to do a **WPScan** on the website to detect other users. 
