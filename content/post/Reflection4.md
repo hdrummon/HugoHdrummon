@@ -30,3 +30,5 @@ get to root on different challenges.
 I then did a 1-on-1 feedback regarding my Reflection 3, and what changes I need to submit it as a pass. The primary changes needed are just having artefacts for team collaboration and providing evidence on my technical knowledge of SQL Injections. 
 Aside from that I received feedback about my presentation which was apparently good overall. Once I knew what changes i needed for my reflection 3, I’ve made the changes and posted some screenshots supporting these statements.
 For the rest of the day I spend on creating a section on my portfolio for Write-Ups and for my submission this Sunday.
+
+## Friday 14/02 Sunday 16/02
