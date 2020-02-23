@@ -41,7 +41,12 @@ Which ended up paying off when I found the password and username of 'Jimmy'.
 Today was quite informative as members from Deloitte Pieter Westein and Nathan Jones came in to do a presentation on Penetration testing and for a pen-test box challenge that we attempted. 
 The presentation was quite informative about the attributes of Penetration testing, what's involved and some of the different areas of it that I wasn't aware of such as the lengths of red team offensive operations on a client company. 
 The idea of a inconspicus power plug being used as an access port to access the intranet of a company from the inside of their walls is such an unknown and scary subject for me to understand, but also an intriguing and fascinating idea to the extent that security goes through. 
-
+<figure>
+<img src="/img/Tool.png" >
+<figcaption>
+*Example of the Offensive tools used from the presentation*
+</figcaption>
+</figure>
 We then began to attempt there challenge box, which was really difficult as it presented a medium for enumerating and exploiting which was git repositories.
 While I understood the first sections that im familiar with such as **Netdiscover** and **NMAP** scanning, it was later on when we encouted the repository files that it became difficult as we were trying to determine the best course of action with these files.
 At this point I attempted to revert to a prevoiusly committed instance, but this was alot more difficult then I expected and didnt end up finishing that task. Overall was really suprised just how intense the box really was but also disappointed for not making sufficent progress.
@@ -57,7 +62,7 @@ That being "How do they deal with the human element in threat assessment in pene
 As Nathan replied, they typically utilize human threat reconnaissance and employee threat assessment of how they would interact with possible exploits like social engineering or phishing links. 
 They then mentioned how there would be blast emails that stress the importance of warning about phishing links and just letting in random people into the building to plant these rogue devices, while also creating incentives to spot protentional threats and rogue security that act in as threats to create awareness. 
 This in itself is a smart idea to create incentives to encourage the active observation of threats within an organization. 
-This was also a good opotunity to interact with them as stakeholders being that they are active Penetration Testers for Deloitte and have an important insight in the field that I will once need.
+This was also a good opotunity to interact with them as stakeholders since I didnt last sprint, also being that they are active Penetration Testers for Deloitte and have an important insight in the field that I will once need.
 
 
 The rest of the day was spent attempting the HackTheBox that were using for our deliverable.
