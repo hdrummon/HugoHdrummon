@@ -14,7 +14,12 @@ Monday was quite an eventful day in a better way then last week, we were require
 This was lot harder then I first expected even with watching a video about it a couple of weeks ago. Although with the help from Nik we managed to Cooperate through the challenge and get the invite code.
  The challenge tested my use of console and inspector, because typically I only use the inspector for CTF or boot-to-roots, but the invite challenge forced me to understand the use of the inspector and the browser in a good way. 
 It also present familiar concepts like encryption formats ROT13 and Base64 which I've used in the past.
-
+<figure>
+<img src="/img/Invite.png" >
+<figcaption>
+*Getting the invite code and able to register to HackTheBox*
+</figcaption>
+</figure>
 Now with the entry into HackTheBox, the main deliverable for this week is to complete one of the boxes  in hack the box. So far I've made minor progress in class for the box OpenAdmin, but will continue to persist throughout the box across the week.
 
 ## Tuesday - Wednesday 18 - 19/02
