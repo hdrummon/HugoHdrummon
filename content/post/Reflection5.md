@@ -41,7 +41,7 @@ We then began to attempt there challenge box, which was really difficult as it p
 While I understood the first sections that im familiar with such as **Netdiscover** and **NMAP** scanning, it was later on when we encouted the repository files that it became difficult as we were trying to determine the best course of action with these files.
 At this point I attempted to revert to a prevoiusly committed instance, but this was alot more difficult then I expected and didnt end up finishing that task. Overall was really suprised just how intense the box really was but also disappointed for not making sufficent progress.
 <figure>
-<img src="/img/Challenge.png" >
+<img src="/img/Deloitte.jfif" >
 <figcaption>
 *Deloitte Box challenge*
 </figcaption>
@@ -60,6 +60,12 @@ The rest of the day was spent attempting the HackTheBox that were using for our 
  That being said, I stated how I wanted to try and attempt to get root in my OpenAdmin box, which in the later hours of the night I finally managed to get Root on OpenAdmin.
  I was extremely relieved and zealous at the idea that I finally managed to root such a difficult box even after finally getting an invite code which has been a long time goal. 
  While I had to get numerous hints to guide me in the right direction because of how lost I was, I was still quite surprised how I managed the box. I was however disappointed how over reliant if was on hints from others, as I knew in the real world hints wouldn't be given out so easily. 
+ <figure>
+<img src="/img/Rooted.png" >
+<figcaption>
+*Submitted user and root flag*
+</figcaption>
+</figure>
 
 ## Friday 21/02
 
