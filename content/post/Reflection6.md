@@ -1,13 +1,16 @@
 ---
 title: "Reflection6"
 date: 2020-02-29T11:56:48+11:00
-draft: true
+description: "Reflection for fifth sprint"
+displayInLine: true
+displayInMenu: false
+draft: false
 ---
 ## Monday 24/02
 
 Today was the last day in the class that we had time to discuss our major deliverable, which was another completed machine from Hack the Box, but needing to get both keys user and root.txt.
- This was also the time to start organizing our presentation/ showcase for the summer studio.
- Within my team, Nik, Dylan, Tyrone and myself, we decided to use OpenAdmin for our showcase, since it shows everything we learned throughout the studio, from learning in Wargames and CTFS to using resonance and web application exploit tools.
+This was also the time to start organizing our presentation/ showcase for the summer studio.
+Within my team, Nik, Dylan, Tyrone and myself, we decided to use OpenAdmin for our showcase, since it shows everything we learned throughout the studio, from learning in Wargames and CTFS to using resonance and web application exploit tools.
 
 I managed to also complete and root the Traverxec box for my final submission. 
 Ill be focusing on creating a writeup tomorrow since I only managed to get root in the later hours before midnight. 
