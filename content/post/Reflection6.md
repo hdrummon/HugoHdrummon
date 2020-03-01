@@ -39,6 +39,12 @@ Through discussing in person and through messenger we delegated roles and organi
 I also focused on finishing the write-up for Traverxec so I can mostly focus on organizing a demo of Openadmin. 
 I had a couple of issues during the recording that require a reshoot of the demo, but a major issue happened during the SSH process later in the machine which made me skip over the section to redo it later due to a connection issue between my Openvpn and the Hack-the-Box network. 
 I then had Dylan edit the demo for the showcase, which I mostly focused on having him edit the section were the error occurred. 
+<figure>
+{{< youtube id="18uakx2QGEM" autoplay="yes">}}
+<figcaption>
+*Our OpenAdmin demo*
+</figcaption>
+</figure>
 
 ## Thursday 27/02
 
