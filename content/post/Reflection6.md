@@ -16,9 +16,9 @@ I managed to also complete and root the Traverxec box for my final submission.
 Ill be focusing on creating a writeup tomorrow since I only managed to get root in the later hours before midnight. 
 While I was quite happy to get root I needed to have a refreshed mind to make the write-up the following day. 
 <figure>
-<img src="/img/Owned.pnh" >
+<img src="/img/Owned.png" >
 <figcaption>
-*Discussing how we will present on thursday*
+*Both User and Root Owned on Traverxec*
 </figcaption>
 </figure> 
 
