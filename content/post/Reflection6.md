@@ -43,6 +43,10 @@ I then had Dylan edit the demo for the showcase, which I mostly focused on havin
 ## Thursday 27/02
 
 Today was the main showcase day of our final presentation of OpenAdmin. It was an overall quiet showcase with only 2 people coming to our stall to look at our presentation. 
+We initially dicussed what we did in the weeks of the studio and how they leads to our final deliverable. I mostly discuss the key deliverables for each week and what the main focus of them was, then how those skills helped us with our deliverable for the showcase.
+Once I discussed the main focuses of each week, we provided some background context as to what was the methodology we used when attempting OpenAdmin, in this case we talked about the three major E's: Enumeration, Exploitation and Escalation.
+This section primarily was in relation to how we progressed through OpenAdmin, but it was also the main process we learned throughout the studio, which was most promanaint in the late weeks since we were tackling more harder machines.
+I then discussed how a scenario such as OpenAdmin could affect the industry. From normal users and business to the politics and reputation behind the attack.
 
 One of which was a Professor in the Engineering Faculty, I was quite intermediated when presenting, since he was already quite familiar with how UNIX systems operate. 
 But after the presentation we had a chance to have a one-on-one conversation about the cyber security subjects here at UTS and how they should change.
@@ -55,6 +59,12 @@ But after the presentation we had a chance to have a one-on-one conversation abo
 I discussed with him mostly about how initially understanding the concepts of cyber security are overwhelming since previous subjects like Cryptography (Formally Security Fundamentals) and Cyber Security lacked any real explanation to real world examples or context, and mostly focused on poorly formatted theory work. 
 He then asked how we were able to understand these concepts within the 6 weeks compared to a regular 12-13 week subject. 
 I then explained that we were initially thrown into the deep end of it but were guided with the help of online resources like Hacksplaining and PicoCTF to help refine our understanding of these new concepts as well as real world stakeholders that have proper industry experience coming into the studio too provide insight into the cybersecurity mindset. 
+<figure>
+<img src="/img/Owned.png" >
+<figcaption>
+*Example of some of the exploits Hacksplaining has*
+</figcaption>
+</figure> 
 Since I knew he was helping create some of the new cybersecurity related subjects, I wanted to try emphasizing the need to have passion driven knowledge and relation to practical and theory based content rather then having no correlation between content like those previous subjects. 
 Again I made reference to how I initially had very limited knowledge about particular areas in the cybersecurity area, and never being able to get into hack the box, to now having a proper understanding and resources required as well as now completing two machines on Hack the Box.
 
