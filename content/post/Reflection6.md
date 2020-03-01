@@ -52,6 +52,7 @@ Today was the main showcase day of our final presentation of OpenAdmin. It was a
 We initially dicussed what we did in the weeks of the studio and how they leads to our final deliverable. I mostly discuss the key deliverables for each week and what the main focus of them was, then how those skills helped us with our deliverable for the showcase.
 Once I discussed the main focuses of each week, we provided some background context as to what was the methodology we used when attempting OpenAdmin, in this case we talked about the three major E's: Enumeration, Exploitation and Escalation.
 This section primarily was in relation to how we progressed through OpenAdmin, but it was also the main process we learned throughout the studio, which was most promanaint in the late weeks since we were tackling more harder machines.
+<br>
 I then discussed how a scenario such as OpenAdmin could affect the industry. From normal users and business to the politics and reputation behind the attack.
 We then split the two up so we could showcase the demonstration of OpenAdmin to the 2 visitors. 
 One of which was a Professor in the Engineering Faculty, I was quite intermediated when presenting, since he was already quite familiar with how UNIX systems operate. 
