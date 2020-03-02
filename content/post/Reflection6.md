@@ -29,6 +29,7 @@ While I was quite happy to get root I needed to have a refreshed mind to make th
 Overall the machine was quite similar to my previous machine OpenAdmin. 
 They both shared similar enumeration processes and configuration files to help me further determine exploits. 
 There were still sections that I was stuck on, but I mostly focused on using google to help determine the right path rather than trying rabbit holes.
+You can find the writeup for Traverxec **<a href="https://www.hdrummon.me/post/write-ups/traverxec-write-up/">**here.</a> 
 
 ## Tuesday 25/02  Wednesday 26/02
 
