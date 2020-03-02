@@ -154,8 +154,10 @@ And for the later showcase in Week 6, we would often meet up face-to-face to dis
 Most meetups would be organized on Facebook Messenger and presentation slides would often be done on either Canva or Google Slides. 
 It was a great opportunity to discuss issues we faced with our boxes as well. We would often troubleshoot our issues together but unless its directly relating to the box, then we would give hints to encourage thinking rather than hand out the answer.
 In terms of presentations I feel like I’ve improved greatly in my presentation skills throughout the course of the studio as evident in the feedback I’ve received for my deliverable presentations. This feedback was extremely well received since it was the confidence boost needed for myself to further improve myself in both my verbal and non-verbal communication in presentations.
-It really helped me with refining how I present the content in a prestation with such a short amount of time. This really helped me improve overall, not just performing under time pressure but also being clear cut regarding the content and needing to work in teams. I need to present quick and straight to the point as it mimics the future styling of presentations needed to convey a lot of information in a short time in the industry.
-Having collaboration involved throughout the studio really helped me develop the necessary interpersonal skills and further improve my communication skills especially when presenting as this is always a constant challenger for me, but I feel this studio has really improved my overall experiences towards communicating with others and stakeholders.
+It really helped me with refining how I present the content in a prestation with such a short amount of time. 
+This really helped me improve overall, not just performing under time pressure but also being clear cut regarding the content and needing to work in teams.
+ I need to present quick and straight to the point as it mimics the future styling of presentations needed to convey a lot of information in a short time in the industry.
+Having collaboration involved throughout the studio really helped me develop the necessary interpersonal skills and further improve my communication skills. Especially when presenting as this is always a constant challenger for me, but I feel this studio has really improved my overall experiences towards communicating with others and stakeholders.
 
 
 ## SLO5 Conduct critical self, peer, and group review and performance evaluation
@@ -189,11 +191,11 @@ Moreover, was the individual feedback provided my Jason through teams, which hel
 </figure>
 
 <br> 
-I was introduced to Stand-ups, which allowed every student to voice their strengths or progress, weakness or struggles and their goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had an issue or weakness, we could help them overcome it.
+I was also introduced to Stand-ups, which allowed every student to voice their strengths or progress, weakness or struggles and their goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had an issue or weakness, we could help them overcome it.
 And often during meetings for our work, if anyone had issues, we would discuss the issue whether that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would encourage and give hints about their solution to try and motivate them to think a bit more while also not being too obvious about the answer.
 <br>
 <br>
-I would also attempt to create small summaries at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, I would attempt to resolve it in the following week.
+I would also attempt to create small summaries at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encountered during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, I would attempt to resolve it in the following week.
 
 ## Conclusion
 Going into this studio I was really intimidated about how hard the content would be, and the obvious fear of failing because of it. Once I got settled into the studio and started understanding the content more, I slowly began to become alot more confident in my evolving skills.
