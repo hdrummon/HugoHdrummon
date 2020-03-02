@@ -23,7 +23,7 @@ Some of these stakeholders include:
 Patrick Kelso From UTS Security (Week 2)
 </li>
 <li>
-Robert Mitchell Formerally from Pure Security (Week 2)
+Robert Mitchell Formerly from Pure Security (Week 2)
 </li>
 <li>
 Pieter Westein From Deloite (Week 5)
@@ -38,7 +38,27 @@ Larry and Jason (Week 2-6)
 
 
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
-
+During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initial since I had no proper understanding of what to do.
+But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines. I managed to use a particular design thinking approach to understand how to handle this problem and what was expected. 
+Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerale** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine.
+I follows a very similar process the three major E's, Enumerate, Exploit and Escalate. By using these "major E's" I was better able to utilise a design thinking methodology approach when attempting a box.
+For example, if I were to attempt a box I would go through mostly the define through to the testing.
+<ul>
+<ol>
+Define (The problem): Navigate through the machine to get Root.
+</ol>
+<ol>
+Ideate (Create many ideas through brainstorming): Enumerate a systems files to find a possible lead.
+</ol>
+<ol>
+Prototype (Hands-on approach): Finding an potential exploit.
+</ol>
+<li>
+Test (Testing solutions): Using a version exploit of Escalate user.
+</ol>
+</ul>
+This particular approach would repeat until the desired goal is meet.
+Since I wouldn’t always find the correct exploit every time, I would have to repeat the Ideate process to determine a better solution.
 
 ## SLO3 Apply technical skills to develop, model and/or evaluate designs
 

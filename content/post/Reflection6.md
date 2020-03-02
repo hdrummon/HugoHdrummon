@@ -6,8 +6,9 @@ displayInLine: true
 displayInMenu: false
 draft: false
 ---
-# Reflection 6
-The last week of Summer Studio was quite eventful. I managed to obtain both user and root for the Traverxec box and presented our showcase of the OpenAdmin box. It was also a major week to reflect on all the work that has lead up to this showcase since in our presentation we talked about how what we learned over the six weeks has helped us obtain root in OpenAdmin.
+# Reflection 6#
+The last week of Summer Studio was quite eventful. I managed to obtain both user and root for the Traverxec box and presented our showcase of the OpenAdmin box. It was also a major week to reflect on all the work that has lead up to this showcase since in our presentation we talked about how what we learned over the six weeks has helped us obtain root in OpenAdmin
+I was quite surprised at how easily I was able to get to root from the Traverxec box, but just feel uneasy about it since I didn’t expect my skills and knowledge to be applied that quickly. But I’m overall excited that I managed to complete it so soon
 As the final concluding week of the Summer Studio, it has been a fun and worthwhile experience to have while also forwarding my knowledge of cybersecurity and better prepared me for the future ahead.
 
 ## Monday 24/02
@@ -91,7 +92,9 @@ Which I had Dylan edit the two clips I recorded to navigate around this issue. T
 
 ## Goals/ To-do
 Since this is the last reflection for the studio I still have some overall goals that I would still like to complete in time:
-- Improve time management techniques.
+- Further research into HackSplaining and PicoCTF
+- Attempt more Hack-the-Box machines
+- Improve time management techniques
 - Improve and make changes to website (background / presentation).
-- Fix Kali **WPScan** issue > Finish **Literally-Vulnerability** box.
+- Finish **Literally-Vulnerability** box.
 
