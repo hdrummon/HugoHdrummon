@@ -65,26 +65,42 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 <ul>
 <li>
 **Week 1** 
-- GitHub and GitBash: Setting up this Hugo blog and website.
+- *GitHub and GitBash*: Setting up this Hugo blog and website.
 </li>
 <li>
 **Week 2** 
-- NetworkMapper(NMAP)/Zenmap and Linux CLI: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
+- *NetworkMapper(NMAP)/Zenmap and Linux CLI*: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
 </li>
 <li>
 **Week 3** 
-- Linux CLI, GIT, SQL Injection and Web Application attacks: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
+- *Linux CLI, GIT, SQL Injection and Web Application based tools (Inspect element, Console, Network)*: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
 </li>
 <li>
 **Week 4**
- - WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerale.</a>   
+- *WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John*: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerable.</a>   
 </li>
 <li>
-Week 5
+**Week 5 and 6**
+- *Dirb, Privilege Escalation, NetCat, Sudo Reverse Shell, John, Curl*: All of these were used in order to obtain both User and Root flags for the machines **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">**OpenAdmin</a> and **<a href="https://www.hdrummon.me/post/write-ups/traverxec-write-up/">**Traverxec</a>.
 </li>
 </ul>
+Over the studio, I have been exposed to new tools and techniques that help me when attempting challenges like those on Hack-the-Box. These tools are nessacary in order to travrse through a system and obtain root. And consider my previously limited skills, which now ive refined further to now have confidence when attempting these new challenges. 
+Previously I would never expect to have obtain root on any vulnerable machine, but to not only obtain a Hack-the-Box invite/ make an account but to also root 4 boxes.
 
 ## SLO4 Demonstrate effective collaboration and communication skills
-
-
+During the studio especially in the earlier weeks, we were required to create and present a couple of topics that are related the cyber security field. It was an essential part of the studio as it not only allowed use to work in groups to build team and communication skills, but it also provided us the opportunity to further our knowledge in a particular area of the field.
+It allowed us to properly collaborate regarding issues or progress we had during our deliverables and provided the opportunity to have a collective understanding of the topic. As mentioned, the major deliverables for weeks 2 and 3 were presentation based.
+The two major presentations were:
+<ul>
+<li>
+**Nmap** 
+- *Myself, Dylan, Nik and Lachlan
+</li>
+<li>
+**SQL Injection** 
+- *Myself, Dowsen and Manish
+</li>
+</ul>
+During both presentations, Facebook Messenger and Microsoft Teams were the main means of communication between each member. Though during the Week 2 presentation we opted to go with Trello to help manage our progress, which didn’t necessarily work out (This is further discussed in **<a href="https://www.hdrummon.me/post/reflection2/">**Reflection 2</a>)
+But for later deliverables, while the were often individual I would use Discord to voice chat with other students to collaborate on certain issues that we had for that particular deliverable. And for the later showcase in Week 6, we would often meet up face-to-face to discuss it in real time.
 ## SLO5 Conduct critical self, peer, and group review and performance evaluation
