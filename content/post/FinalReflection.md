@@ -64,16 +64,20 @@ From the beginning of the studio I was already struggling with technical areas o
 But over the six weeks, the studio has forced me to evolve and adapt my knowledge toward tools and concepts. Each week I learned a new concept that helped me on my Journey through the studio
 <ul>
 <li>
-Week 1 - GitHub and GitBash: Setting up this Hugo blog and website.
+**Week 1** 
+- GitHub and GitBash: Setting up this Hugo blog and website.
 </li>
 <li>
-Week 2 - NetworkMapper(NMAP)/Zenmap and Linux CLI: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
+**Week 2** 
+- NetworkMapper(NMAP)/Zenmap and Linux CLI: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
 </li>
 <li>
-Week 3 - Linux CLI, GIT, SQL Injection and Web Application attacks: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
+**Week 3** 
+- Linux CLI, GIT, SQL Injection and Web Application attacks: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
 </li>
 <li>
-Week 4 - WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerale.</a>   
+**Week 4**
+ - WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerale.</a>   
 </li>
 <li>
 Week 5
