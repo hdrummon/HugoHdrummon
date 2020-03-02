@@ -120,5 +120,15 @@ And often during meetings for our work, if anyone had issues we would discuss th
 I would also attempt to create small summary at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, id attempt to resolve it in the following week.
 
 ## Conclusion
+Going into this studio I was really intimidated about how hard the content would be, and the obvious fear of failing because of it. Once I got settled into the studio and started understanding the content more, I slowly began to become a lot more confident in my evolving skills.
+Coming in with very minor knowledge of cyber security concepts and lesser knowledge on pen testing and wargames, I was expecting the content to be brutal and never retain the knowledge taught. 
+It provided the necessary resources to go from general understanding to having confidence in my knowledge.
+<br>
+The journey through the studio was both an insightful one and enjoyable, while providing its own challenges. The studio  encouraged me to better myself and refine my skills better in order to tackle the next challenge ahead. But to go from basic knowledge and understanding of CTFs to completing and rooting to Hack-the-Box machines is behind the expectation I set for myself.
+The skills and knowledge I have gained can easily be applied to different machines and has also furthered my insight into my future career path. It has given me a better more clear picture as to what’s required as a cyber security specialist.
+<br>
+Not only has the studio provided me with the technical knowledge but it also has helped me refine my existing skills like communication, leadership, time management and problem solving. Without me even realizing it, the journey through the studio has provided me with greater experience in these areas and helped me properly refine my existing skills through feedback and results.
+While there are still some goals that I didn't hit like completing one of the machines and spending more time refining my Hugo site, I do intend to complete these goals now even outside the studio. These goal represent my own commitment to my career like this portfolio which I can show with pride in the future to show the progress and journey I have made.
+I can now say with confidence that this studio has increased my skills and knowledge to help me achieve my overall goal of becoming a Cyber Security Specialist.
 
 
