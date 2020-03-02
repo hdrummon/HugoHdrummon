@@ -43,20 +43,20 @@ But towards the end of the studio when I started to use more difficult boxes and
 Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerale** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine.
 I follows a very similar process the three major E's, Enumerate, Exploit and Escalate. By using these "major E's" I was better able to utilise a design thinking methodology approach when attempting a box.
 For example, if I were to attempt a box I would go through mostly the define through to the testing.
-<ul>
 <ol>
+<li>
 Define (The problem): Navigate through the machine to get Root.
-</ol>
-<ol>
+</li>
+<li>
 Ideate (Create many ideas through brainstorming): Enumerate a systems files to find a possible lead.
-</ol>
-<ol>
+</li>
+<li>
 Prototype (Hands-on approach): Finding an potential exploit.
-</ol>
+</li>
 <li>
 Test (Testing solutions): Using a version exploit of Escalate user.
+</li>
 </ol>
-</ul>
 This particular approach would repeat until the desired goal is meet.
 Since I wouldn’t always find the correct exploit every time, I would have to repeat the Ideate process to determine a better solution.
 
