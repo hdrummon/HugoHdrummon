@@ -24,7 +24,7 @@ While I was quite happy to get root I needed to have a refreshed mind to make th
 
 Overall the machine was quite similar to my previous machine OpenAdmin. 
 They both shared similar enumeration processes and configuration files to help me further determine exploits. 
-There were still sections that I was stuck on, but I mostly focused on using google to help determine the right path rather then trying rabbit holes.
+There were still sections that I was stuck on, but I mostly focused on using google to help determine the right path rather than trying rabbit holes.
 
 ## Tuesday 25/02  Wednesday 26/02
 
@@ -49,9 +49,10 @@ I then had Dylan edit the demo for the showcase, which I mostly focused on havin
 ## Thursday 27/02
 
 Today was the main showcase day of our final presentation of OpenAdmin. It was an overall quiet showcase with only 2 people coming to our stall to look at our presentation. 
-We initially dicussed what we did in the weeks of the studio and how they leads to our final deliverable. I mostly discuss the key deliverables for each week and what the main focus of them was, then how those skills helped us with our deliverable for the showcase.
+We initially discussed what we did in the weeks of the studio and how they leads to our final deliverable. I mostly discuss the key deliverables for each week and what the main focus of them was, then how those skills helped us with our deliverable for the showcase.
 Once I discussed the main focuses of each week, we provided some background context as to what was the methodology we used when attempting OpenAdmin, in this case we talked about the three major E's: Enumeration, Exploitation and Escalation.
-This section primarily was in relation to how we progressed through OpenAdmin, but it was also the main process we learned throughout the studio, which was most promanaint in the late weeks since we were tackling more harder machines.
+This section primarily was in relation to how we progressed through OpenAdmin, but it was also the main process we learned throughout the studio, which was most prominent in the late weeks since we were tackling more harder machines.
+<br>
 <br>
 I then discussed how a scenario such as OpenAdmin could affect the industry. From normal users and business to the politics and reputation behind the attack.
 We then split the two up so we could showcase the demonstration of OpenAdmin to the 2 visitors. 
@@ -72,14 +73,14 @@ I then explained that we were initially thrown into the deep end of it but were 
 *Example of some of the exploits Hacksplaining has*
 </figcaption>
 </figure> 
-Since I knew he was helping create some of the new cybersecurity related subjects, I wanted to try emphasizing the need to have passion driven knowledge and relation to practical and theory based content rather then having no correlation between content like those previous subjects. 
+Since I knew he was helping create some of the new cybersecurity related subjects, I wanted to try emphasizing the need to have passion driven knowledge and relation to practical and theory based content rather than having no correlation between content like those previous subjects. 
 Again I made reference to how I initially had very limited knowledge about particular areas in the cybersecurity area, and never being able to get into hack the box, to now having a proper understanding and resources required as well as now completing two machines on Hack the Box.
 
-Overall, despite the showcase being very quite for people, it was a good time to refine my presentation skills and having one-on-one conversation regarding these important topics. 
+Overall, despite the showcase being very quiet for people, it was a good time to refine my presentation skills and having one-on-one conversation regarding these important topics. 
 Sadly Tyrone was unable to make it but it was for the best since we as a team didn't want him to spread his flu or perform under that condition.
 <figure>
 <img src="/img/DSC04273.jpg" >
 <figcaption>
 *Dylan, Nik and myself discussing with the professor and another visitor to the table*
 </figcaption>
-</figure> 
+</figure>

@@ -3,7 +3,7 @@ title: "OpenAdmin Write Up"
 date: 2020-02-23T19:03:40+11:00
 description: "Write-up for OpenAdmin"
 displayInLine: true
-displayInMenu: false
+displayInMenu: true
 draft: false
 ---
 # OpenAdmin
