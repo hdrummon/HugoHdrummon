@@ -15,7 +15,7 @@ I’d like personally like the thank our studios tutors, Larry, Jason and Max fo
 
 ## SLO1 Engage with stakeholders to identify a problem or scope a defined problem
 Across each week, I found my problem statement switching between different problems that I found in the industry. Each week as I interacted with stakeholders, I found that my initial problem statement when asked as a question would often be solved or at least recognised by the stakeholder.
-In some weeks however I found that there was no problem statement that came to mind, such as in Week1 and Week4 I didn’t interact with any stakeholders because I wasn’t aware that I could use our tutors as stakeholders, nor did I have any problem in Week4 at the time since Week1 I was away.
+In some weeks however I found that there was no problem statement that came to mind, such as in Week 1 and Week 4 I didn’t interact with any stakeholders because I wasn’t aware that I could use our tutors as stakeholders, nor did I have any problem in Week4 at the time since Week1 I was away.
 Every other week I managed to interact with different stakeholders, and rather the come up with one major problem statement I had several minor statements. 
 Some of these stakeholders include:
 <ul>
@@ -37,16 +37,20 @@ Some of these stakeholders include:
 </ul>
 During the weeks as I spoke with the major stakeholders, I would often have different questions prepared for every time I knew I would interact with any stake holders.
 Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had question lined up such as *"Is there a point were processing power hits a threshold that cyber security tools wont handle"* and *"Is it necessarily required to have 3 Years of industry experience for an entry level job"*.
-I also asked similar question to Pieter Westein and Nathan Jones "How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this". They answered each of these questioned as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2. </a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5. </a>
+I also asked similar question to Pieter Westein and Nathan Jones "*How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this*". They answered each of these questioned as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2. </a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5. </a>
 <br>
 <br>
-My overall problem statement encompasses the human element in the industry, both external and internal to the field. Since this area an overall important field that I want to understand and address how the human element in the industry can impact the overall security of a system. 
-The question centrally revolves around how if technology exceeds a certain point, can this impact not only how Cyber Security tools will evolve, but also how the human element will be affected. Will it be easier for human elements to great exploits? Would the human element be removed entirely? 
-I primarily ask this as I believe that at a certain point, processing for computers will grow so exponentially large, that hacking tools will become incredibly powerful unless rules and regulations are in place at some point. While I never had an initial problem statement that was passed through each stakeholder, the preformed questions I had prepared I then used to create my overall problem of the human element relating to exponentially processing speeds.
+although my overall problem statement encompasses the human element in the industry, both external and internal to the field. Since this area is an overall important field that I want to understand and address is mostly how the human element in the industry can impact the overall security of a system. 
+The question centrally revolves around if technology exceeds a certain point, can this impact not only how Cyber Security tools will evolve, but also how the human element will be affected. Will it be easier for human elements to great exploits? Would the human element be removed entirely? 
+I primarily ask this as I believe that at a certain point, processing power for computers will grow so exponentially large, that hacking tools will become incredibly powerful unless rules and regulations are in place at some point. 
+<br> <br>
+While I never had an initial problem statement that was passed through each stakeholder, the preformed questions I had prepared I then used to create my overall problem of the human element relating to exponentially processing speeds.
 
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
 During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initial since I had no proper understanding of what to do.
-But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines. I managed to use a design thinking approach to understand how to handle this problem and what was expected. 
+But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines. 
+<br> <br>
+I managed to use a design thinking approach to understand how to handle this problem and what was expected. 
 Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerable** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine, similar to the Web Pentesting methodology.
 I follow a very similar process the three major E's, Enumerate, Exploit and Escalate. By using these "major E's" I was better able to utilise a design thinking methodology approach when attempting a box.
 For example, if I were to attempt a box, I would go through mostly the Define through to Testing.
