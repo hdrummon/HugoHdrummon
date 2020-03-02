@@ -119,7 +119,7 @@ The two major presentations were:
 **Nmap** 
 - *Myself, Dylan, Nik and Lachlan
 <figure>
-<img src="/img/Team1.png" >
+<img src="/img/Team.png" >
 </figure>
 </li>
 <li>
