@@ -34,7 +34,7 @@ Usually when I was stuck I would google search the area I'm in or look into othe
 Some would help but others would lead me to dead ends, which constantly frustrated me during the enumeration process. 
 I was quite relieved when I did manage to step into the right direction at any point because it meant that I actually made progress. 
 But each time I did do something, id try to understand what I did and why I did it. 
-This can all be found in my Write-up **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">** Basic Pen-Testing</a>
+This can all be found in my Write-up **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">** here.</a>
 <figure>
 <img src="/img/Help.png" >
 <figcaption>
