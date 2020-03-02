@@ -9,9 +9,9 @@ draft: false
 
 ## Introduction 
 Throughout my time in Summer Studio 02 Cyber Security: An Offensive Mindset, I have gone from very basic introductory level knowledge of Cyber Security, to being able to attempt Hack-the-Box challenges with confidence in my skills.
-The studio has really help me develop the necessary skills for the industry and develop the mindset needed to address these new challenges. 
+The studio has really helped me develop the necessary skills for the industry and develop the mindset needed to address these new challenges. 
 In this post, I will be discussing how I’ve addressed each Subject Learning Outcome over the course of the studio as well as provide evidence based on each SLO.
-I’d like personally like the thank our studios tutors, Larry, Jason and Max for providing the insight and guidance along the journey through this studio and providing the opportunity to learn such an interesting topic.
+I’d like to personally thank our studios tutors, Larry, Jason and Max for providing the insight and guidance along the journey through this studio and providing the opportunity to learn such an interesting topic.
 
 ## SLO1 Engage with stakeholders to identify a problem or scope a defined problem
 Across each week, I found my problem statement switching between different problems that I found in the industry. Each week as I interacted with stakeholders, I found that my initial problem statement when asked as a question would often be solved or at least recognised by the stakeholder.
@@ -26,7 +26,7 @@ A list of stakeholders I interacted with over the studio include:
 **Robert Mitchell Formerly from Pure Security** (Week 2)
 </li>
 <li>
-**Pieter Westein From Deloite** (Week 5)
+**Pieter Westein From Deloitte** (Week 5)
 </li>
 <li>
 **Nathan Jones From Deloitte** (Week 5)
@@ -36,19 +36,19 @@ A list of stakeholders I interacted with over the studio include:
 </li>
 </ul>
 During the weeks as I spoke with the major stakeholders, I would often have different questions prepared for every time I knew I would interact with any stake holders or there was a presentation.
-Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had a question lined up such as *"Is there a point were processing power hits a threshold that cyber security tools wont handle"* and *"Is it necessarily required to have 3 Years of industry experience for an entry level job"*.
-I also asked similar question to Pieter Westein and Nathan Jones from deliotte asking "*How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this*". They answered each of these questions as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2. </a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5. </a>
+Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had a question lined up such as *"Is there a point where processing power hits a threshold that cyber security tools wont handle?"* and *"Is it necessarily required to have 3 Years of industry experience for an entry level job?"*.
+I also asked similar question to Pieter Westein and Nathan Jones from Deliotte asking "*How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this? “*. They answered each of these questions as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2. </a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5. </a>
 <br>
 <br>
-Although my overall problem statement encompasses the human element in the industry, both external and internal to the field. This area is an overall important field that I want to understand futher and address due to how mostly the human element in the industry can impact the overall security of a system. 
+Although my overall problem statement encompasses the human element in the industry, both external and internal to the field. This area is an overall important field that I want to understand further and address due to how mostly the human element in the industry can impact the overall security of a system. 
 The question centrally revolves around if technology exceeds a certain point, can this impact not only how Cyber Security tools will evolve, but also how the human element will be affected. Will it be easier for human elements to create exploits or threat actors? Would the human element be removed entirely? 
 I primarily ask this as I believe that at a certain point, processing power for computers will grow so exponentially large, that hacking tools will become incredibly powerful unless rules and regulations are in place at some point. 
 <br> <br>
-While I never had an initial problem statement that was passed through each stakeholder, the preformed questions I had prepared I then used to create my overall problem of the human element relating to exponentially processing speeds and while I have not anwser to it yet, I intend to research this further outside the studio.
+While I never had an initial problem statement that was passed through each stakeholder, the preformed questions I had prepared I then used to create my overall problem of the human element relating to exponentially processing speeds and while I have not answered it yet, I intend to research this further outside the studio.
 
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
 During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initially since I had no proper understanding of what to do or what was required.
-But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines, I started to adopt at small use of design thinking to my work. 
+But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines, I started to adopt more prominent use of design thinking to my work. 
 <br> <br>
 I managed to use a design thinking approach to understand how to handle this problem and what was expected. 
 Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerable** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine from boot-to-root, similar to the Web Pentesting methodology.
@@ -78,7 +78,7 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 <ul>
 <li>
 **Week 1** 
-- *GitHub and GitBash*: Setting up this Hugo blog and website, initally difficult but managed over time.
+- *GitHub and GitBash*: Setting up this Hugo blog and website, initially difficult but managed over time.
 </li>
 <li>
 **Week 2** 
@@ -109,15 +109,15 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 - *Linux CLI, Dirb, Privilege Escalation, NetCat, Sudo Reverse Shell, John, Curl*: All of these were used in order to obtain both User and Root flags for the machines **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">**OpenAdmin</a> and **<a href="https://www.hdrummon.me/post/write-ups/traverxec-write-up/">**Traverxec</a>.
 </li>
 </ul>
-Over the studio, I have been exposed to new tools and techniques that help me when attempting challenges like those on Hack-the-Box. These tools are necessary in order to traverse through a system and obtain root. And considering my previously limited skills, which now I’ve refined further to now have confidence when attempting these new challenges. 
+Over the studio, I have been exposed to new tools and techniques that have helped me when attempting challenges like those on Hack-the-Box. These tools are necessary in order to traverse through a system and obtain root. And considering my previously limited skills, which now I’ve refined further to now have confidence when attempting these new challenges. 
 Previously I would never expect to have obtain root on any vulnerable machine, but to not only obtain a Hack-the-Box invite/ make an account but to also root 4 boxes including 2 from Hack-the-Box.
-The studio in its entirety has expanded my technical knowledge of using various tools for various situations and how and when to apply them, as well as propelling that technical knowledge that i've learned for my career later.
+The studio in its entirety has expanded my technical knowledge of using various tools for various situations and how and when to apply them, as well as propelling that technical knowledge that I’ve learnt for my career later.
 
 
 ## SLO4 Demonstrate effective collaboration and communication skills
-During the studio especially in the earlier weeks, we were required to create and present a couple of topics that are related the cyber security field. It was an essential part of the studio as it not only allowed use to work in groups to build team and communication skills, but it also provided us the opportunity to further our knowledge in an area of the field by conducting research on the required deliverable.
-We would often use Stand-ups as away to discuss with the class the strengths and weaknesses we had each week, and our goals for the following week.
-It allowed us to properly collaborate regarding issues or progress we had during our deliverables and provided the opportunity to have a collective understanding of the topic. As mentioned, the major deliverables for weeks 2 and 3 were presentation based.
+During the studio especially in the earlier weeks, we were required to create and present a couple of topics that are related to the Cyber Security field. It was an essential part of the studio as it not only allowed us to work in groups to build team and communication skills, but it also provided us the opportunity to further our knowledge in an area of the field by conducting research on the required deliverable.
+We would often use Stand-ups to discuss with the class the strengths and weaknesses we had each week, and our goals for the following week.
+It allowed us to properly collaborate regarding issues or progress we had during our deliverables and provided the opportunity to have a collective understanding of the topic. As mentioned earlier, the major deliverables for weeks 2 and 3 were presentation based.
 The two major presentations were:
 <ul>
 <li>
@@ -152,7 +152,7 @@ But for later deliverables, while they were often individual, I would use Discor
 </figure>
 And for the later showcase in Week 6, we would often meet up face-to-face to discuss it in real time or use Discord to discuss progress.
 Most meetups would be organized on Facebook Messenger and presentation slides would often be done on either Canva or Google Slides. 
-It was a great opportunity to discuss issues we faced with our boxes as well. We would often troubleshoot our issues together but unless its directly relating to the box, then we would give hints to encourage thinking rather then hand out the anwser.
+It was a great opportunity to discuss issues we faced with our boxes as well. We would often troubleshoot our issues together but unless its directly relating to the box, then we would give hints to encourage thinking rather than hand out the answer.
 In terms of presentations I feel like I’ve improved greatly in my presentation skills throughout the course of the studio as evident in the feedback I’ve received for my deliverable presentations. This feedback was extremely well received since it was the confidence boost needed for myself to further improve myself in both my verbal and non-verbal communication in presentations.
 It really helped also refining my how I present the content in a prestation in such a short amount of time. This really helped me improve overall, not just performing under time pressure but also being clear cut regarding the content and needing to work in teams. I need to present quick and straight to the point as its mimics the future styling of presentations needed to convey a lot of information in short time in the industry.
 Having collaboration involved throughout the studio really helped me develop the necessary interpersonal skills and further improve my communication skills especially when presenting as this is always a constant challenger to me, but I feel this studio has really improved my overall experiences towards communicating with others and stakeholders.
@@ -167,6 +167,26 @@ But as the studio progressed, I found it a lot more relaxed to document my emoti
 <br>
 Another way I was better able to review my performance was from the one-on-one feedback sessions that were available after most classes. This was an amazing opportunity understand if I was performing as expected and what I did correctly.
 But it was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was extremely valued for me as it helps motivate myself to do better to prevent such issues.
+Moreover, was the individual feedback Provided my Jason through teams, which helped me correct any current issues impeding my work or my current progress. Some of the feedback provided are as such:
+<figure>
+<img src="/img/feedback.png" >
+<figcaption>
+*Feedback for Week 3 and 4*
+</figcaption>
+</figure>
+<figure>
+<img src="/img/feedback2.png" >
+<figcaption>
+*Feedback for Week 5*
+</figcaption>
+</figure>
+<figure>
+<img src="/img/feedback1.png" >
+<figcaption>
+*Feedback for Week 6*
+</figcaption>
+</figure>
+
 <br> 
 I was introduced to Stand-ups, which allowed every student to voice their strengths or progress, Weakness or struggles and their goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had an issue or weakness, we could help them overcome it.
 And often during meetings for our work, if anyone had issues, we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being too obvious about the answer.
