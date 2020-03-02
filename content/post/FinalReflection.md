@@ -112,11 +112,13 @@ But as the studio progressed, I found it a lot more relaxed to document my emoti
 <br>
 Another way I was better able to review my performance was from the one-on-one feedback sessions that were available after most classes. This was an amazing opportunity understand if I was performing as expected and what I did correctly.
 But it was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was extremely valued for me as it help motivate myself to do better to prevent such issues.
-<br> I was introduced to Standups, which allowed every student to voice their strengths or progress, Weakness or struggles and there goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had a particular issue or weakness we could help them overcome it.
+<br> 
+I was introduced to Standups, which allowed every student to voice their strengths or progress, Weakness or struggles and there goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had a particular issue or weakness we could help them overcome it.
 And often during meetings for our work, if anyone had issues we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being to obvious about the answer.
+<br>
 <br>
 I would also attempt to create small summary at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, id attempt to resolve it in the following week.
 
-##Conclusion
+## Conclusion
 
 
