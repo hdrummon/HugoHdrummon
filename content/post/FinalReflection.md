@@ -77,14 +77,14 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 </li>
 <li>
 **Week 4**
-- *WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John*: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerable.</a>   
+- *WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John*: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerable.</a>   
 </li>
 <li>
 **Week 5 and 6**
 - *Dirb, Privilege Escalation, NetCat, Sudo Reverse Shell, John, Curl*: All of these were used in order to obtain both User and Root flags for the machines **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">**OpenAdmin</a> and **<a href="https://www.hdrummon.me/post/write-ups/traverxec-write-up/">**Traverxec</a>.
 </li>
 </ul>
-Over the studio, I have been exposed to new tools and techniques that help me when attempting challenges like those on Hack-the-Box. These tools are nessacary in order to travrse through a system and obtain root. And consider my previously limited skills, which now ive refined further to now have confidence when attempting these new challenges. 
+Over the studio, I have been exposed to new tools and techniques that help me when attempting challenges like those on Hack-the-Box. These tools are necessary in order to traverse through a system and obtain root. And consider my previously limited skills, which now I’ve refined further to now have confidence when attempting these new challenges. 
 Previously I would never expect to have obtain root on any vulnerable machine, but to not only obtain a Hack-the-Box invite/ make an account but to also root 4 boxes.
 
 ## SLO4 Demonstrate effective collaboration and communication skills
@@ -102,5 +102,21 @@ The two major presentations were:
 </li>
 </ul>
 During both presentations, Facebook Messenger and Microsoft Teams were the main means of communication between each member. Though during the Week 2 presentation we opted to go with Trello to help manage our progress, which didn’t necessarily work out (This is further discussed in **<a href="https://www.hdrummon.me/post/reflection2/">**Reflection 2</a>)
-But for later deliverables, while the were often individual I would use Discord to voice chat with other students to collaborate on certain issues that we had for that particular deliverable. And for the later showcase in Week 6, we would often meet up face-to-face to discuss it in real time.
+But for later deliverables, while they were often individual I would use Discord to voice chat with other students to collaborate on certain issues that we had for that particular deliverable. And for the later showcase in Week 6, we would often meet up face-to-face to discuss it in real time.
 ## SLO5 Conduct critical self, peer, and group review and performance evaluation
+The understanding of my own emotions has not only help better understand how to deal with them, but also has allowed me to have greater emotional intelligence to others as well in this studio.
+Throughout this studio, I was able to better conduct my own self review through each reflection I did. This way I was able to not only document how I felt during the studio but also the progress Ive made up until now.
+I would often find myself struggling to describe how I felt after certain events during the studio. It was often hard to document not only what I learned, but how I felt about it.
+But as the studio progressed, I found it a lot more relaxed to document my emotions as I progress using a daily reflection process rather than a overall weekly reflection process. This way I was better able to document my own emotions while they were fresh and recently experienced compared to a weekly reflection that I would often struggle to remember how I felt.
+<br>
+<br>
+Another way I was better able to review my performance was from the one-on-one feedback sessions that were available after most classes. This was an amazing opportunity understand if I was performing as expected and what I did correctly.
+But it was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was extremely valued for me as it help motivate myself to do better to prevent such issues.
+<br> I was introduced to Standups, which allowed every student to voice their strengths or progress, Weakness or struggles and there goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had a particular issue or weakness we could help them overcome it.
+And often during meetings for our work, if anyone had issues we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being to obvious about the answer.
+<br>
+I would also attempt to create small summary at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, id attempt to resolve it in the following week.
+
+##Conclusion
+
+
