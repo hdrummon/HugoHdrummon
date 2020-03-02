@@ -47,7 +47,7 @@ I primarily ask this as I believe that at a certain point, processing for comput
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
 During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initial since I had no proper understanding of what to do.
 But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines. I managed to use a particular design thinking approach to understand how to handle this problem and what was expected. 
-Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerable** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine.
+Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerable** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine, similar to the Web Pentesting methodology.
 I follows a very similar process the three major E's, Enumerate, Exploit and Escalate. By using these "major E's" I was better able to utilise a design thinking methodology approach when attempting a box.
 For example, if I were to attempt a box I would go through mostly the Define through to Testing.
 <ol>
@@ -64,9 +64,9 @@ For example, if I were to attempt a box I would go through mostly the Define thr
 **Test** (Testing solutions): Using a version exploit of Escalate user.
 </li>
 </ol>
-This particular approach would repeat until the desired goal is meet.
+This particular approach would repeat until the desired goal is complete.
 Since I wouldn’t always find the correct exploit every time, I would have to repeat the Ideate process to determine a better solution.
-This methodology approach to attempting boot-to-root challenges has better helped me in understaning how industry professionals attempt real world pentration testing scenarios. This same methodology can be applied to how hackers attack a system when attempting to breach a system, they would utilise the same **Define** to **Test** approach.
+This methodology approach to attempting boot-to-root challenges has better helped me in understanding how industry professionals attempt real world penetration testing scenarios. This same methodology can be applied to how hackers attack a system when attempting to breach a system, they would utilise the same **Define** to **Test** approach.
 
 ## SLO3 Apply technical skills to develop, model and/or evaluate designs
 From the beginning of the studio I was already struggling with technical areas of Cyber Security, primarily skills used in CTF and Wargame challenges which I had some practice in but not enough to be confident in.
@@ -79,10 +79,22 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 <li>
 **Week 2** 
 - *NetworkMapper(NMAP)/Zenmap and Linux CLI*: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
+<figure>
+<img src="/img/nmap.png" >
+<figcaption>
+*Basic NMAP scan*
+</figcaption>
+</figure>
 </li>
 <li>
 **Week 3** 
 - *Linux CLI, GIT, SQL Injection and Web Application based tools (Inspect element, Console, Network)*: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
+<figure>
+<img src="/img/sql.png" >
+<figcaption>
+*SQL Injection example*
+</figcaption>
+</figure>
 </li>
 <li>
 **Week 4**
@@ -95,6 +107,7 @@ But over the six weeks, the studio has forced me to evolve and adapt my knowledg
 </ul>
 Over the studio, I have been exposed to new tools and techniques that help me when attempting challenges like those on Hack-the-Box. These tools are necessary in order to traverse through a system and obtain root. And consider my previously limited skills, which now I’ve refined further to now have confidence when attempting these new challenges. 
 Previously I would never expect to have obtain root on any vulnerable machine, but to not only obtain a Hack-the-Box invite/ make an account but to also root 4 boxes.
+The studio in its etiraty has expanded my technical knowledge of using various tools for various situations and how and when to apply them. 
 
 ## SLO4 Demonstrate effective collaboration and communication skills
 During the studio especially in the earlier weeks, we were required to create and present a couple of topics that are related the cyber security field. It was an essential part of the studio as it not only allowed use to work in groups to build team and communication skills, but it also provided us the opportunity to further our knowledge in a particular area of the field.
