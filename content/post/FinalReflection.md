@@ -40,9 +40,9 @@ Larry and Jason (Week 2-6)
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
 During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initial since I had no proper understanding of what to do.
 But towards the end of the studio when I started to use more difficult boxes and use my knowledge from practicing previous CTF machines. I managed to use a particular design thinking approach to understand how to handle this problem and what was expected. 
-Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerale** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine.
+Once I started attempting CTF challenges like **Basic Pentesting**, **Literally Vulnerable** and the newer Hack-the-Box Machines **OpenAdmin** and **Traverxec** I was able to properly adopt a design thinking approach to each stage of the machine.
 I follows a very similar process the three major E's, Enumerate, Exploit and Escalate. By using these "major E's" I was better able to utilise a design thinking methodology approach when attempting a box.
-For example, if I were to attempt a box I would go through mostly the define through to the testing.
+For example, if I were to attempt a box I would go through mostly the Define through to Testing.
 <ol>
 <li>
 Define (The problem): Navigate through the machine to get Root.
@@ -59,9 +59,26 @@ Test (Testing solutions): Using a version exploit of Escalate user.
 </ol>
 This particular approach would repeat until the desired goal is meet.
 Since I wouldn’t always find the correct exploit every time, I would have to repeat the Ideate process to determine a better solution.
-
 ## SLO3 Apply technical skills to develop, model and/or evaluate designs
-
+From the beginning of the studio I was already struggling with technical areas of Cyber Security, primarily skills used in CTF and Wargame challenges which I had some practice in but not enough to be confident in.
+But over the six weeks, the studio has forced me to evolve and adapt my knowledge toward tools and concepts. Each week I learned a new concept that helped me on my Journey through the studio
+<ul>
+<li>
+Week 1 - GitHub and GitBash: Setting up this Hugo blog and website.
+</li>
+<li>
+Week 2 - NetworkMapper(NMAP)/Zenmap and Linux CLI: Used a lot of Linux CLI in OverTheWire / PicoCTP challenges and NMAP for presentation. 
+</li>
+<li>
+Week 3 - Linux CLI, GIT, SQL Injection and Web Application attacks: Used a mixture of Linux CLI and Web Application attacks for OverTheWire-Natas challenges. SQL Injections was primarily used for our presentation but also used on OWASP Juice Shop (Demonstration can be found **<a href="https://www.hdrummon.me/post/reflection3/">**here.</a> ).
+</li>
+<li>
+Week 4 - WPScan, Dirb, Privilege Escalation, Netdiscover, Burp Suite, NetCat, Sudo Reverse Shell, Metasploit, John: All of these were used when attempting **<a href="https://www.hdrummon.me/post/write-ups/basic-penetration-testing-1-write-up/">**Basic Pentesting.</a>, **<a href="https://www.hdrummon.me/post/write-ups/me-and-my-girlfriend-write-up-1/">**Me and My Girlfriend 1</a> and **<a href="https://www.hdrummon.me/post/write-ups/literally-vulnerable/">**Literally Vulnerale.</a>   
+</li>
+<li>
+Week 5
+</li>
+</ul>
 
 ## SLO4 Demonstrate effective collaboration and communication skills
 

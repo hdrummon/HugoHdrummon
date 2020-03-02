@@ -69,7 +69,7 @@ I discussed with him mostly about how initially understanding the concepts of cy
 He then asked how we were able to understand these concepts within the 6 weeks compared to a regular 12-13 week subject. 
 I then explained that we were initially thrown into the deep end of it but were guided with the help of online resources like Hacksplaining and PicoCTF to help refine our understanding of these new concepts as well as real world stakeholders that have proper industry experience coming into the studio too provide insight into the cybersecurity mindset. 
 <figure>
-<img src="/img/Owned.png" >
+<img src="/img/Hacksplaining.PNG" >
 <figcaption>
 *Example of some of the exploits Hacksplaining has*
 </figcaption>
