@@ -3,7 +3,7 @@ title: "Summer Studio 2020 - Portfolio"
 date: 2020-02-29T11:56:57+11:00
 description: "Overview of the Summer Studio"
 displayInLine: true
-displayInMenu: false
+displayInMenu: true
 draft: false
 ---
 
@@ -35,7 +35,12 @@ Nathan Jones From Deloitte (Week 5)
 Larry and Jason (Week 2-6)
 </li>
 </ul>
-
+During the weeks as I spoke with the major stakeholders, I would often have different questions prepared for every time I knew I would interact with any stake holders.
+Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had question lined up such as "Is there a point were processing power hits a threshold that cyber security tools wont handle" and "Is it necessarily required to have 3 Years of industry experience for a entry level job".
+I also asked similar question to Pieter Westein and Nathan Jones "How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this". They answered each of these questioned as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2.</a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5.</a>
+My overall problem statement encompasses the human element in the industry, both external and internal to the field. Since this area an overall important field that I want to understand and address how the human element in the industry can impact the overall security of a system. 
+The question centrally revolves around how if technology exceeds a certain point, can this impact not only how Cyber Security tools will evolve, but also how the human element will be affected. Will it be easier for human elements to great exploits? Would the human element be removed entirely? 
+I primarily ask this as I believe that at a certain point, processing for computers will grow so exponentially large, that hacking tools will become incredibly powerful unless rules and regulations are in place at some point. While I never had an initial problem statement that was passed through each stakeholder, the preformed questions I had prepared I then used to create my overall problem of the human element relating to exponentially processing speeds.
 
 ## SLO2 Apply design and systems thinking to respond to a defined or newly identified problem
 During the first couple of weeks of the Summer Studio, I really lacked a sense of direction regarding how to utilise a design thinking approach towards work, more so towards any Cyber Security related problems. Due to how difficult it originally was, I didn’t necessarily adopt a design thinking approach initial since I had no proper understanding of what to do.
@@ -114,7 +119,7 @@ Another way I was better able to review my performance was from the one-on-one f
 But it was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was extremely valued for me as it help motivate myself to do better to prevent such issues.
 <br> 
 I was introduced to Standups, which allowed every student to voice their strengths or progress, Weakness or struggles and there goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had a particular issue or weakness we could help them overcome it.
-And often during meetings for our work, if anyone had issues we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being to obvious about the answer.
+And often during meetings for our work, if anyone had issues we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being too obvious about the answer.
 <br>
 <br>
 I would also attempt to create small summary at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, id attempt to resolve it in the following week.
