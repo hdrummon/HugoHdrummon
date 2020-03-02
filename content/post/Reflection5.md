@@ -34,7 +34,19 @@ Usually when I was stuck I would google search the area I'm in or look into othe
 Some would help but others would lead me to dead ends, which constantly frustrated me during the enumeration process. 
 I was quite relieved when I did manage to step into the right direction at any point because it meant that I actually made progress. 
 But each time I did do something, id try to understand what I did and why I did it. 
-
+This can all be found in my Write-up **<a href="https://www.hdrummon.me/post/write-ups/openadmin-write-up/">** Basic Pen-Testing</a>
+<figure>
+<img src="/img/Help.png" >
+<figcaption>
+*Anthony giving me a clue where to go*
+</figcaption>
+</figure>
+<figure>
+<img src="/img/Help2.png" >
+<figcaption>
+*Giving Nik some help*
+</figcaption>
+</figure>
 
 ## Thursday 20/02
 
@@ -86,7 +98,7 @@ I also wanted to confirm with Jason as well about how I would submit my write-up
 <figure>
 <img src="/img/JasonWriteup.png" >
 <figcaption>
-*Disussion I had with Jason regarding submission of the completed Write-up*
+*Discussion I had with Jason regarding submission of the completed Write-up*
 </figcaption>
 </figure>
 

@@ -6,6 +6,10 @@ displayInLine: true
 displayInMenu: false
 draft: false
 ---
+# Reflection 5
+The last week of Summer Studio was quite eventful. I managed to obtain both user and root for the Traverxec box and presented our showcase of the OpenAdmin box. It was also a major week to reflect on all the work that has lead up to this showcase since in our presentation we talked about how what we learned over the six weeks has helped us obtain root in OpenAdmin.
+As the final concluding week of the Summer Studio, it has been a fun and worthwhile experience to have while also forwarding my knowledge of cybersecurity and better prepared me for the future ahead.
+
 ## Monday 24/02
 
 Today was the last day in the class that we had time to discuss our major deliverable, which was another completed machine from Hack the Box, but needing to get both keys user and root.txt.
@@ -33,7 +37,7 @@ Through discussing in person and through messenger we delegated roles and organi
 <figure>
 <img src="/img/Groupchat.png" >
 <figcaption>
-*Discussing how we will present on thursday*
+*Discussing how we will present on Thursday*
 </figcaption>
 </figure> 
 I also focused on finishing the write-up for Traverxec so I can mostly focus on organizing a demo of Openadmin. 
@@ -86,5 +90,12 @@ Sadly Tyrone was unable to make it but it was for the best since we as a team di
 </figure>
 
 ## Issues
+This week I had only a minor issue regarding the recording of the OpenAdmin. This was due to the connection between my Openvpn and the Hack-the-Box which caused errors when I was executing commands during the recording which I had to cut from the final presentation.
+Which I had Dylan edit the two clips I recorded to navigate around this issue. Thanks to Dylan’s editing skills it was resolved quite easily. Apart from this issue, the only other issue would be the lack of engagement we had with visitors. While we still had two visitors, it would have been better if more would have interacted with us to help refine our presentation and one-on-one communication.
 
+## Goals/ To-do
+Since this is the last reflection for the studio I still have some overall goals that I would still like to complete in time:
+- Improve time management techniques.
+- Improve and make changes to website (background / presentation).
+- Fix Kali **WPScan** issue > Finish **Literally-Vulnerability** box.
 
