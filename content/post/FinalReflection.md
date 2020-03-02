@@ -124,8 +124,10 @@ Going into this studio I was really intimidated about how hard the content would
 Coming in with very minor knowledge of cyber security concepts and lesser knowledge on pen testing and wargames, I was expecting the content to be brutal and never retain the knowledge taught. 
 It provided the necessary resources to go from general understanding to having confidence in my knowledge.
 <br>
+<br>
 The journey through the studio was both an insightful one and enjoyable, while providing its own challenges. The studio  encouraged me to better myself and refine my skills better in order to tackle the next challenge ahead. But to go from basic knowledge and understanding of CTFs to completing and rooting to Hack-the-Box machines is behind the expectation I set for myself.
 The skills and knowledge I have gained can easily be applied to different machines and has also furthered my insight into my future career path. It has given me a better more clear picture as to what’s required as a cyber security specialist.
+<br>
 <br>
 Not only has the studio provided me with the technical knowledge but it also has helped me refine my existing skills like communication, leadership, time management and problem solving. Without me even realizing it, the journey through the studio has provided me with greater experience in these areas and helped me properly refine my existing skills through feedback and results.
 While there are still some goals that I didn't hit like completing one of the machines and spending more time refining my Hugo site, I do intend to complete these goals now even outside the studio. These goal represent my own commitment to my career like this portfolio which I can show with pride in the future to show the progress and journey I have made.
