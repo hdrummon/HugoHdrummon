@@ -52,16 +52,16 @@ I follows a very similar process the three major E's, Enumerate, Exploit and Esc
 For example, if I were to attempt a box I would go through mostly the Define through to Testing.
 <ol>
 <li>
-Define (The problem): Navigate through the machine to get Root.
+**Define** (The problem): Navigate through the machine to get Root.
 </li>
 <li>
-Ideate (Create many ideas through brainstorming): Enumerate a systems files to find a possible lead.
+**Ideate** (Create many ideas through brainstorming): Enumerate a systems files to find a possible lead.
 </li>
 <li>
-Prototype (Hands-on approach): Finding an potential exploit.
+**Prototype** (Hands-on approach): Finding an potential exploit.
 </li>
 <li>
-Test (Testing solutions): Using a version exploit of Escalate user.
+**Test** (Testing solutions): Using a version exploit of Escalate user.
 </li>
 </ol>
 This particular approach would repeat until the desired goal is meet.
