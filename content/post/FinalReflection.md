@@ -31,6 +31,9 @@ Pieter Westein From Deloite (Week 5)
 <li>
 Nathan Jones From Deloitte (Week 5)
 </li>
+<li>
+Larry and Jason (Week 2-6)
+</li>
 </ul>
 
 
