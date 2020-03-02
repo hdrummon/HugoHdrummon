@@ -1,12 +1,12 @@
 ---
 title: "Reflection6"
 date: 2020-02-29T11:56:48+11:00
-description: "Reflection for fifth sprint"
+description: "Reflection for sixth sprint"
 displayInLine: true
 displayInMenu: false
 draft: false
 ---
-# Reflection 5
+# Reflection 6
 The last week of Summer Studio was quite eventful. I managed to obtain both user and root for the Traverxec box and presented our showcase of the OpenAdmin box. It was also a major week to reflect on all the work that has lead up to this showcase since in our presentation we talked about how what we learned over the six weeks has helped us obtain root in OpenAdmin.
 As the final concluding week of the Summer Studio, it has been a fun and worthwhile experience to have while also forwarding my knowledge of cybersecurity and better prepared me for the future ahead.
 

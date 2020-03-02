@@ -47,6 +47,14 @@ This can all be found in my Write-up **<a href="https://www.hdrummon.me/post/wri
 *Giving Nik some help*
 </figcaption>
 </figure>
+Often if I didnt find any clues I would read our group page which would often have clues or at least some pointers in the box.
+</figure>
+<figure>
+<img src="/img/Help3.png" >
+<figcaption>
+*The groupchat*
+</figcaption>
+</figure>
 
 ## Thursday 20/02
 
