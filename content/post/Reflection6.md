@@ -84,3 +84,7 @@ Sadly Tyrone was unable to make it but it was for the best since we as a team di
 *Dylan, Nik and myself discussing with the professor and another visitor to the table*
 </figcaption>
 </figure>
+
+## Issues
+
+

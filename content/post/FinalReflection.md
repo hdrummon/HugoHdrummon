@@ -1,5 +1,5 @@
 ---
-title: "Summer Studio 2020 - Protfolio"
+title: "Summer Studio 2020 - Portfolio"
 date: 2020-02-29T11:56:57+11:00
 description: "Overview of the Summer Studio"
 displayInLine: true
@@ -8,15 +8,15 @@ draft: false
 ---
 
 ## Introduction 
-Thorugh out my time in Summer Studio 02 Cyber Security: An Offensive Mindset, I have gone from very basic introductory level knowledge of Cyber Security, to being able to attempt Hack-the-Box challenges with confidence in my skills.
-The studio has really help me develop the nessacary skills for the industry and develop the mindset needed to address these new challenges. 
-In this post, I will be discussing how ive addressed each Subject Learning Outcome over the course of the studio as well as provide evidence based on each SLO.
-Id like personally like the thank our studios tutors, Larry, Jason and Max for providing the insight and guidence along the journey through this studio, and providing the opportunity to learn such an interesting topic.
+Throughout my time in Summer Studio 02 Cyber Security: An Offensive Mindset, I have gone from very basic introductory level knowledge of Cyber Security, to being able to attempt Hack-the-Box challenges with confidence in my skills.
+The studio has really help me develop the necessary skills for the industry and develop the mindset needed to address these new challenges. 
+In this post, I will be discussing how I’ve addressed each Subject Learning Outcome over the course of the studio as well as provide evidence based on each SLO.
+I’d like personally like the thank our studios tutors, Larry, Jason and Max for providing the insight and guidance along the journey through this studio, and providing the opportunity to learn such an interesting topic.
 
 ## SLO1 Engage with stakeholders to identify a problem or scope a defined problem
-Across each week, I found my problem statement swiching between different problems that I found in the industry. Each week as I interacted with stakeholders I found that my inital problem statement when asked as a question would often be solved or at least regnoised my the stakeholder.
-In some weeks however I found that there was no problem statement that came to mind, such as in Week1 and Week4 I didnt interact with any stakeholders because I wasent aware that I could use our tutors as stakeholders, nor did I have any problem in Week4 at the time since Week1 I was away.
-That being said, everother week I managed to interact with different stakeholders, and rather the come up with one major problem statement I had several minor statements. 
+Across each week, I found my problem statement switching between different problems that I found in the industry. Each week as I interacted with stakeholders I found that my initial problem statement when asked as a question would often be solved or at least recognised by the stakeholder.
+In some weeks however I found that there was no problem statement that came to mind, such as in Week1 and Week4 I didn’t interact with any stakeholders because I wasn’t aware that I could use our tutors as stakeholders, nor did I have any problem in Week4 at the time since Week1 I was away.
+That being said, every other week I managed to interact with different stakeholders, and rather the come up with one major problem statement I had several minor statements. 
 Some of these stakeholders include:
 <ul>
 <li>

@@ -32,11 +32,9 @@ I successfully managed to install the required programs such as Fusion while als
 The progress on the box was quite slow and steady, hardly any direction that I could find without some pointers from other people who have completed the step I'm on. 
 Usually when I was stuck I would google search the area I'm in or look into other information sources like write-ups to find any leads to continue. 
 Some would help but others would lead me to dead ends, which constantly frustrated me during the enumeration process. 
-I was quite relieved when I did manage to step into the right direction at any points because it meant that I actually made progress. 
+I was quite relieved when I did manage to step into the right direction at any point because it meant that I actually made progress. 
 But each time I did do something, id try to understand what I did and why I did it. 
-Such as when I managed to use a version exploit to shell into OpenNetAdmin 18.1.1 and what I was able to do in the exploit. 
-I knew that with this shell I could further enumerate and find more information that would eventually help me. 
-Which ended up paying off when I found the password and username of 'Jimmy'.
+
 
 ## Thursday 20/02
 
