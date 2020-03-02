@@ -154,21 +154,22 @@ And for the later showcase in Week 6, we would often meet up face-to-face to dis
 Most meetups would be organized on Facebook Messenger and presentation slides would often be done on either Canva or Google Slides. 
 It was a great opportunity to discuss issues we faced with our boxes as well. We would often troubleshoot our issues together but unless its directly relating to the box, then we would give hints to encourage thinking rather than hand out the answer.
 In terms of presentations I feel like I’ve improved greatly in my presentation skills throughout the course of the studio as evident in the feedback I’ve received for my deliverable presentations. This feedback was extremely well received since it was the confidence boost needed for myself to further improve myself in both my verbal and non-verbal communication in presentations.
-It really helped also refining my how I present the content in a prestation in such a short amount of time. This really helped me improve overall, not just performing under time pressure but also being clear cut regarding the content and needing to work in teams. I need to present quick and straight to the point as its mimics the future styling of presentations needed to convey a lot of information in short time in the industry.
-Having collaboration involved throughout the studio really helped me develop the necessary interpersonal skills and further improve my communication skills especially when presenting as this is always a constant challenger to me, but I feel this studio has really improved my overall experiences towards communicating with others and stakeholders.
+It really helped me with refining how I present the content in a prestation with such a short amount of time. This really helped me improve overall, not just performing under time pressure but also being clear cut regarding the content and needing to work in teams. I need to present quick and straight to the point as it mimics the future styling of presentations needed to convey a lot of information in a short time in the industry.
+Having collaboration involved throughout the studio really helped me develop the necessary interpersonal skills and further improve my communication skills especially when presenting as this is always a constant challenger for me, but I feel this studio has really improved my overall experiences towards communicating with others and stakeholders.
 
 
 ## SLO5 Conduct critical self, peer, and group review and performance evaluation
-The understanding of my own emotions has not only help better understand how to deal with them, but also has allowed me to have greater emotional intelligence to others as well in this studio.
+The understanding of my own emotions has not only helped me understand how to deal with them better, but also has allowed me to have greater emotional intelligence to others in this studio.
 Throughout this studio, I was able to better conduct my own self review through each reflection I did. This way I was able to not only document how I felt during the studio but also the progress I’ve made up until now.
 I would often find myself struggling to describe how I felt after certain events during the studio. It was often hard to document not only what I learned, but how I felt about it at the time.
-But as the studio progressed, I found it a lot more relaxed to document my emotions as I progress using a daily reflection process rather than an overall weekly reflection process. This way I was better able to document my own emotions while they were fresh and recently experienced compared to a weekly reflection that I would often struggle to remember how I felt.
+But as the studio progressed, I found it to be alot more relaxing to document my emotions as I progress using a daily reflection process rather than an overall weekly reflection process. This way I was better able to document my own emotions while they were fresh and recently experienced compared to a weekly reflection that I would often struggle to remember how I felt.
 <br>
 <br>
-Another way I was better able to review my performance was from the one-on-one feedback sessions that were available after most classes. This was an amazing opportunity understand if I was performing as expected and what I did correctly.
-But it was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was extremely valued for me as it helps motivate myself to do better to prevent such issues.
-Moreover, was the individual feedback Provided my Jason through teams, which helped me correct any current issues impeding my work or my current progress. Some of the feedback provided are as such:
+Another way I was better able to review my performance was from the one-on-one feedback sessions that were available after most classes. This was an amazing opportunity to understand if I was performing as expected and what I did correctly.
+It was also a great opportunity to highlight the negative feedback of what areas I need to improve or change in order to meet the required deliverable. This was of extreme value to me as it helps motivate myself to do better to prevent such issues.
+Moreover, was the individual feedback provided my Jason through teams, which helped me correct any current issues impeding my work or my current progress. Some of the feedback provided are as such:
 <figure>
+
 <img src="/img/feedback.png" >
 <figcaption>
 *Feedback for Week 3 and 4*
@@ -188,24 +189,24 @@ Moreover, was the individual feedback Provided my Jason through teams, which hel
 </figure>
 
 <br> 
-I was introduced to Stand-ups, which allowed every student to voice their strengths or progress, Weakness or struggles and their goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had an issue or weakness, we could help them overcome it.
-And often during meetings for our work, if anyone had issues, we would discuss the issue weather that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would try and give hints about their solution to try and encourage them to think a bit more while also not being too obvious about the answer.
+I was introduced to Stand-ups, which allowed every student to voice their strengths or progress, weakness or struggles and their goals for the upcoming week. This was a great idea as it allowed us all to conduct our own review and performance evaluation of each other, so if anyone had an issue or weakness, we could help them overcome it.
+And often during meetings for our work, if anyone had issues, we would discuss the issue whether that was through Microsoft Teams, Facebook Messenger, Discord or face-to-face. If it was relating to a Hack-the-Box challenge, we would encourage and give hints about their solution to try and motivate them to think a bit more while also not being too obvious about the answer.
 <br>
 <br>
-I would also attempt to create small summary at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, id attempt to resolve it in the following week.
+I would also attempt to create small summaries at the beginning of each reflection which would review how I felt during the whole week and what impact it had. These tied in with my **Issues** section which primarily focused on what problems I encounter during the week and if they were resolved or not. This would then be related to my goals for the next week as if it’s an issue I can resolve, I would attempt to resolve it in the following week.
 
 ## Conclusion
-Going into this studio I was really intimidated about how hard the content would be, and the obvious fear of failing because of it. Once I got settled into the studio and started understanding the content more, I slowly began to become a lot more confident in my evolving skills.
+Going into this studio I was really intimidated about how hard the content would be, and the obvious fear of failing because of it. Once I got settled into the studio and started understanding the content more, I slowly began to become alot more confident in my evolving skills.
 Coming in with very minor knowledge of cyber security concepts and lesser knowledge on pen testing and wargames, I was expecting the content to be brutal and never retain the knowledge taught. 
-It provided the necessary resources to go from general understanding to having confidence in my knowledge.
+It provided the necessary resources to go from general understanding to having confidence in my knowledge and skills.
 <br>
 <br>
 The journey through the studio was both an insightful one and enjoyable, while providing its own challenges. The studio encouraged me to better myself and refine my skills better in order to tackle the next challenge ahead. But to go from basic knowledge and understanding of CTFs to completing and rooting to Hack-the-Box machines is behind the expectation I set for myself.
-The skills and knowledge I have gained can easily be applied to different machines and has also furthered my insight into my future career path. It has given me a better clearer picture as to what’s required as a cyber security specialist.
+The skills and knowledge I have gained can easily be applied to different machines and has also furthered my insight into my future career path. It has given me a better, clearer picture as to what’s required as a Cyber Security specialist.
 <br>
 <br>
-Not only has the studio provided me with the technical knowledge but it also has helped me refine my existing skills like communication, leadership, time management and problem solving. Without me even realizing it, the journey through the studio has provided me with greater experience in these areas and helped me properly refine my existing skills through feedback and results.
-While there are still some goals that I didn't hit like completing one of the machines and spending more time refining my Hugo site, I do intend to complete these goals now even outside the studio. These goals represent my own commitment to my career like this portfolio which I can show with pride in the future to show the progress and journey I have made.
+Not only has the studio provided me with the technical knowledge but has also helped me refine my existing skills like communication, leadership, time management and problem solving. Without me even realizing it, the journey through the studio has provided me with greater experience in these areas and helped me properly refine my existing skills through feedback and results.
+While there are still some goals that I didn't hit like completing one of the machines and spending more time refining my Hugo site, I do intend to complete these goals now even outside the studio. As these goals represent my own commitment to my career like this portfolio which I can show with pride in the future and show the progress of the journey I have made.
 I can now say with confidence that this studio has increased my skills and knowledge to help me achieve my overall goal of becoming a Cyber Security Specialist.
 
 
