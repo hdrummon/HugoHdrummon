@@ -20,23 +20,23 @@ That being said, every other week I managed to interact with different stakehold
 Some of these stakeholders include:
 <ul>
 <li>
-Patrick Kelso From UTS Security (Week 2)
+**Patrick Kelso From UTS Security** (Week 2)
 </li>
 <li>
-Robert Mitchell Formerly from Pure Security (Week 2)
+**Robert Mitchell Formerly from Pure Security** (Week 2)
 </li>
 <li>
-Pieter Westein From Deloite (Week 5)
+**Pieter Westein From Deloite** (Week 5)
 </li>
 <li>
-Nathan Jones From Deloitte (Week 5)
+**Nathan Jones From Deloitte** (Week 5)
 </li>
 <li>
-Larry and Jason (Week 2-6)
+**Larry and Jason** (Week 2-6)
 </li>
 </ul>
 During the weeks as I spoke with the major stakeholders, I would often have different questions prepared for every time I knew I would interact with any stake holders.
-Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had question lined up such as "Is there a point were processing power hits a threshold that cyber security tools wont handle" and "Is it necessarily required to have 3 Years of industry experience for a entry level job".
+Such as in week 2 when I interacted with Patrick Kelso and Robert Mitchell I had question lined up such as *"Is there a point were processing power hits a threshold that cyber security tools wont handle"* and *"Is it necessarily required to have 3 Years of industry experience for a entry level job"*.
 I also asked similar question to Pieter Westein and Nathan Jones "How do they deal with the human element in threat assessment in penetration testing and what measures would be taken to prevent this". They answered each of these questioned as I mentioned in my **<a href="https://www.hdrummon.me/post/reflection2/">**Week 2.</a> and **<a href="https://www.hdrummon.me/post/reflection5/">**Week 5.</a>
 <br>
 <br>
@@ -66,6 +66,8 @@ Test (Testing solutions): Using a version exploit of Escalate user.
 </ol>
 This particular approach would repeat until the desired goal is meet.
 Since I wouldn’t always find the correct exploit every time, I would have to repeat the Ideate process to determine a better solution.
+This methodology approach to attempting boot-to-root challenges has better helped me in understaning how industry professionals attempt real world pentration testing scenarios. This same methodology can be applied to how hackers attack a system when attempting to breach a system, they would utilise the same **Define** to **Test** approach.
+
 ## SLO3 Apply technical skills to develop, model and/or evaluate designs
 From the beginning of the studio I was already struggling with technical areas of Cyber Security, primarily skills used in CTF and Wargame challenges which I had some practice in but not enough to be confident in.
 But over the six weeks, the studio has forced me to evolve and adapt my knowledge toward tools and concepts. Each week I learned a new concept that helped me on my Journey through the studio
